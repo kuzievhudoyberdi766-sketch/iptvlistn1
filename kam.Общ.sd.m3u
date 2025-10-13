@@ -1,0 +1,1624 @@
+#EXTM3U
+#EXTM3U url-tvg="https://mvvv.eu/epg"
+#EXTINF:0 channel-id="0" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="kinosemiya" tvg-logo="https://mvvv.eu/b/templates/ottch/kinosemia.png" tvg-name="Киносемья",Киносемья
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/166/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="1" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="muzhskoe-kino" tvg-logo="https://mvvv.eu/b/templates/ottch/muzhskoe-kino.png" tvg-name="Мужское кино",Мужское кино
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/337/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="2" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="kinosvidanie" tvg-logo="https://mvvv.eu/b/templates/ottch/kinosvidanie.png" tvg-name="Киносвидание",Киносвидание
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/164/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="3" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="kinoseria" tvg-logo="https://mvvv.eu/b/templates/ottch/kinoseria.png" tvg-name="Киносерия",Киносерия
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/336/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="4" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="kinokomedia" tvg-logo="https://mvvv.eu/b/templates/ottch/kinokomedia.png" tvg-name="Кинокомедия",Кинокомедия
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/177/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="5" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="kinoxit" tvg-logo="https://mvvv.eu/b/templates/ottch/kino_xit.png" tvg-name="Кинохит",Кинохит
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/182/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="6" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="kinomiks" tvg-logo="https://mvvv.eu/b/templates/ottch/kinomiks.png" tvg-name="Киномикс",Киномикс
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/296/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="7" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="rodnoe-kino" tvg-logo="https://mvvv.eu/b/templates/ottch/rodnoe-kino.png" tvg-name="Родное кино",Родное кино
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/165/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="8" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="nashe-novoe-kino" tvg-logo="https://mvvv.eu/b/templates/ottch/nashe-novoe-kino.png" tvg-name="Наше новое кино",Наше новое кино
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/184/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="9" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="indiyskoe-kino" tvg-logo="https://mvvv.eu/b/templates/ottch/indijskoe-kino.png" tvg-name="Индийское кино",Индийское кино
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/206/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="10" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="mosfilm" tvg-logo="https://mvvv.eu/b/templates/ottch/mosfilm.png" tvg-name="Мосфильм",Мосфильм
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/778/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="11" tvg-rec="0" group-title="Кино (SD)" tvg-id="flixsnip" tvg-logo="https://mvvv.eu/b/templates/ottch/flixsnip.png" tvg-name="FlixSnip",FlixSnip
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/1102/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="12" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="tv1000" tvg-logo="https://mvvv.eu/b/templates/ottch/tv1000.png" tvg-name="TV1000",TV1000
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/221/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="13" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="tv1000-action" tvg-logo="https://mvvv.eu/b/templates/ottch/tv1000-action.png" tvg-name="TV1000 Action",TV1000 Action
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/222/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="14" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="tv1000-russkoe-kino" tvg-logo="https://mvvv.eu/b/templates/ottch/tv1000-russkoe-kino.png" tvg-name="TV1000 Русское кино",TV1000 Русское кино
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/220/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="15" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="tv1000-worldkino" tvg-logo="https://mvvv.eu/b/templates/ottch/tv1000-worldkino.png" tvg-name="TV1000 World Kino",TV1000 World Kino
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/970/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="16" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="sony-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/sony-tv.png" tvg-name=".Red",.Red
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/224/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="17" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="sony-scifi" tvg-logo="https://mvvv.eu/b/templates/ottch/sony-scifi.png" tvg-name=".Sci-Fi",.Sci-Fi
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/239/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="18" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="sony-turbo" tvg-logo="https://mvvv.eu/b/templates/ottch/sony-turbo.png" tvg-name=".Black",.Black
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/358/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="19" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="fox" tvg-logo="https://mvvv.eu/b/templates/ottch/fox.png" tvg-name="Fox",Fox
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/232/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="20" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="foxlife" tvg-logo="https://mvvv.eu/b/templates/ottch/foxlife.png" tvg-name="Fox Life",Fox Life
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/231/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="21" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="cinema-ru" tvg-logo="https://mvvv.eu/b/templates/ottch/cinema.png" tvg-name="Cinema",Cinema
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/349/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="22" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="evrokino" tvg-logo="https://mvvv.eu/b/templates/ottch/eurokino.png" tvg-name="Еврокино",Еврокино
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/233/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="23" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="ntv-serial" tvg-logo="https://mvvv.eu/b/templates/ottch/ntv-serial.png" tvg-name="НТВ Сериал",НТВ Сериал
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/629/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="24" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="ntv-pravo" tvg-logo="https://mvvv.eu/b/templates/ottch/ntv-pravo.png" tvg-name="НТВ Право",НТВ Право
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/630/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="25" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="nst" tvg-logo="https://mvvv.eu/b/templates/ottch/nst.png" tvg-name="НСТ",НСТ
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/230/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="26" tvg-rec="0" group-title="Кино (SD)" tvg-id="shot-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/shot-tv.png" tvg-name="Shot TV",Shot TV
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/278/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="27" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="vremia" tvg-logo="https://mvvv.eu/b/templates/ottch/vremia.png" tvg-name="Время",Время
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/280/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="28" tvg-rec="0" group-title="Кино (SD)" tvg-id="eralash" tvg-logo="https://mvvv.eu/b/templates/ottch/eralash.png" tvg-name="Ералаш",Ералаш
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/310/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="29" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="domkino" tvg-logo="https://mvvv.eu/b/templates/ottch/dom-kino.png" tvg-name="Дом кино",Дом кино
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/190/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="30" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="kino-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/kino-tv.png" tvg-name="КиноТВ",КиноТВ
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/480/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="31" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="amedia1" tvg-logo="https://mvvv.eu/b/templates/ottch/amedia1.png" tvg-name="Amedia 1",Amedia 1
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/385/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="32" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="amedia2" tvg-logo="https://mvvv.eu/b/templates/ottch/amedia2.png" tvg-name="Amedia 2",Amedia 2
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/379/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="33" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="amedia-premium" tvg-logo="https://mvvv.eu/b/templates/ottch/amedia-premium.png" tvg-name="Amedia Premium",Amedia Premium
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/528/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="34" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="amedia-hit" tvg-logo="https://mvvv.eu/b/templates/ottch/amedia-hit.png" tvg-name="Amedia Hit",Amedia Hit
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/529/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="35" tvg-rec="0" group-title="Кино (SD)" tvg-id="paramount-comedy" tvg-logo="https://mvvv.eu/b/templates/ottch/paramount-comedy.png" tvg-name="Comedy Central",Comedy Central
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/1165/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="36" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="russkaya-komedia" tvg-logo="https://mvvv.eu/b/templates/ottch/russkaya-komedia.png" tvg-name="Русская комедия",Русская комедия
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/395/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="37" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="russky-bestseller" tvg-logo="https://mvvv.eu/b/templates/ottch/russky-bestseller.png" tvg-name="Русский бестселлер",Русский бестселлер
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/396/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="38" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="russky-roman" tvg-logo="https://mvvv.eu/b/templates/ottch/russky-roman.png" tvg-name="Русский роман",Русский роман
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/301/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="39" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="russky-detektiv" tvg-logo="https://mvvv.eu/b/templates/ottch/rus-detektiv.png" tvg-name="Русский детектив",Русский детектив
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/397/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="40" tvg-rec="0" group-title="Кино (SD)" tvg-id="tayna" tvg-logo="https://mvvv.eu/b/templates/ottch/tayna.png" tvg-name="Тайна",Тайна
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/398/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="41" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="mir-seriala" tvg-logo="https://mvvv.eu/b/templates/ottch/mir-seriala.png" tvg-name="Мир сериала",Мир сериала
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/403/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="42" tvg-rec="0" group-title="Кино (SD)" tvg-id="romance" tvg-logo="https://mvvv.eu/b/templates/ottch/romance.png" tvg-name="Romance",Romance
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/1452/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="43" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="lubimoe-kino" tvg-logo="https://mvvv.eu/b/templates/ottch/lubimoe-kino.png" tvg-name="Любимое кино",Любимое кино
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/442/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="44" tvg-rec="0" group-title="Кино (SD)" tvg-id="kineko" tvg-logo="https://mvvv.eu/b/templates/ottch/kineko.png" tvg-name="Кинеко",Кинеко
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/1518/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="45" tvg-rec="0" group-title="Кино (SD)" tvg-id="sapfir" tvg-logo="https://mvvv.eu/b/templates/ottch/sapfir.png" tvg-name="Сапфир",Сапфир
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/1519/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="46" tvg-rec="0" group-title="Кино (SD)" tvg-id="start-air" tvg-logo="https://mvvv.eu/b/templates/ottch/start-air.png" tvg-name="Start Air",Start Air
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/724/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="47" tvg-rec="0" group-title="Кино (SD)" tvg-id="start-world" tvg-logo="https://mvvv.eu/b/templates/ottch/start-world.png" tvg-name="Start World",Start World
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/719/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="48" tvg-rec="0" group-title="Кино (SD)" tvg-id="fanhd" tvg-logo="https://mvvv.eu/b/templates/ottch/fanhd.png" tvg-name="FAN",FAN
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/980/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="49" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="ntv-xit" tvg-logo="https://mvvv.eu/b/templates/ottch/ntv-xit.png" tvg-name="НТВ-Хит",НТВ-Хит
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/750/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="50" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="pobeda" tvg-logo="https://mvvv.eu/b/templates/ottch/pobeda.png" tvg-name="Победа",Победа
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/739/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="51" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="filmbox-ru" tvg-logo="https://mvvv.eu/b/templates/ottch/filmbox-ru.png" tvg-name="FilmBox",FilmBox
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/743/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="52" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="filmbox-arthouse" tvg-logo="https://mvvv.eu/b/templates/ottch/filmbox-arthouse.png" tvg-name="FilmBox ArtHouse",FilmBox ArtHouse
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/690/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="53" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="illuzion-plus" tvg-logo="https://mvvv.eu/b/templates/ottch/illuzion-plus.png" tvg-name="Иллюзион +",Иллюзион +
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/330/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="54" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="russky-illuzion" tvg-logo="https://mvvv.eu/b/templates/ottch/russky-illuzion.png" tvg-name="Русский иллюзион",Русский иллюзион
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/329/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="55" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="feniks-plus-kino" tvg-logo="https://mvvv.eu/b/templates/ottch/feniks-plus-kino.png" tvg-name="Феникс+ Кино",Феникс+ Кино
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/332/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="56" tvg-rec="0" group-title="Кино (SD)" tvg-id="docubox-hd" tvg-logo="https://mvvv.eu/b/templates/ottch/docubox-hd.png" tvg-name="DocuBox",DocuBox
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/966/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="57" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="kinopokaz-hd" tvg-logo="https://mvvv.eu/b/templates/ottch/kinopokaz-hd.png" tvg-name="Кинопоказ",Кинопоказ
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/262/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="58" tvg-rec="0" group-title="Кино (SD)" tvg-id="plan-b" tvg-logo="https://mvvv.eu/b/templates/ottch/plan-b.png" tvg-name="Plan B",Plan B
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/976/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="59" tvg-rec="0" group-title="Кино (SD)" tvg-id="top-ussr" tvg-logo="https://mvvv.eu/b/templates/ottch/top-ussr.png" tvg-name="TOP USSR",TOP USSR
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/971/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="60" tvg-rec="0" group-title="Кино (SD)" tvg-id="tvxxi" tvg-logo="https://mvvv.eu/b/templates/ottch/tvxxi.png" tvg-name="TV XXI",TV XXI
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/223/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="61" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Кино (SD)" tvg-id="retro-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/retro-tv.png" tvg-name="Ретро",Ретро
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/226/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="62" tvg-rec="0" group-title="Кино (SD)" tvg-id="zee-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/zee-tv.png" tvg-name="Индия",Индия
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/365/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="63" tvg-rec="0" group-title="Кино (SD)" tvg-id="360-int" tvg-logo="https://mvvv.eu/b/templates/ottch/360-int.png" tvg-name="360° International",360° International
+#EXTGRP:Кино (SD)
+http://ott.crd-s.net/356/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="64" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Мультипликация (SD)" tvg-id="2na2" tvg-logo="https://mvvv.eu/b/templates/ottch/2x2.png" tvg-name="2х2",2х2
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/237/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="65" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="mult" tvg-logo="https://mvvv.eu/b/templates/ottch/mult.png" tvg-name="Мульт",Мульт
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/328/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="66" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="gulli-girl" tvg-logo="https://mvvv.eu/b/templates/ottch/gulligirl.png" tvg-name="Gulli",Gulli
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/344/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="67" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="jimjam" tvg-logo="https://mvvv.eu/b/templates/ottch/jimjam.png" tvg-name="JimJam",JimJam
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/295/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="68" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="tiji" tvg-logo="https://mvvv.eu/b/templates/ottch/tiji.png" tvg-name="TiJi",TiJi
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/345/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="69" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="nickelodeon-ru" tvg-logo="https://mvvv.eu/b/templates/ottch/nickelodeon-ru.png" tvg-name="Nickelodeon",Nickelodeon
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/172/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="70" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Мультипликация (SD)" tvg-id="nick-jr" tvg-logo="https://mvvv.eu/b/templates/ottch/nick-jr.png" tvg-name="Nick Jr",Nick Jr
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/362/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="71" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Мультипликация (SD)" tvg-id="cartoon-network" tvg-logo="https://mvvv.eu/b/templates/ottch/cartoon_network.png" tvg-name="Cartoon Network",Cartoon Network
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/198/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="72" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="boomerang" tvg-logo="https://mvvv.eu/b/templates/ottch/boomerang.png" tvg-name="Cartoonito",Cartoonito
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/400/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="73" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="cartoon-classics" tvg-logo="https://mvvv.eu/b/templates/ottch/cartoon-classics.png" tvg-name="Cartoon Classics",Cartoon Classics
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/1605/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="74" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="kinomult" tvg-logo="https://mvvv.eu/b/templates/ottch/kinomult.png" tvg-name="Киномульт",Киномульт
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/961/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="75" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="malysh" tvg-logo="https://mvvv.eu/b/templates/ottch/malysh.png" tvg-name="Малыш",Малыш
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/633/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="76" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="detsky" tvg-logo="https://mvvv.eu/b/templates/ottch/detsky.png" tvg-name="Уникум",Уникум
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/235/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="77" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Мультипликация (SD)" tvg-id="karusel" tvg-logo="https://mvvv.eu/b/templates/ottch/karusel.png" tvg-name="Карусель",Карусель
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/188/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="78" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="baby-time" tvg-logo="https://mvvv.eu/b/templates/ottch/baby-time.png" tvg-name="Baby Time",Baby Time
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/401/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="79" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="baby-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/baby-tv.png" tvg-name="Baby TV",Baby TV
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/453/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="80" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="v-gostiax-u-skazki" tvg-logo="https://mvvv.eu/b/templates/ottch/v-gostiax-u-skazki.png" tvg-name="В гостях у сказки",В гостях у сказки
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/321/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="81" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="ryzhy" tvg-logo="https://mvvv.eu/b/templates/ottch/ryzhy.png" tvg-name="Рыжий",Рыжий
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/368/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="82" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="ryzhy" tvg-logo="https://mvvv.eu/b/templates/ottch/ryzhy.png" tvg-name="Рыжий (Сурдоперевод)",Рыжий (Сурдоперевод)
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/737/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="83" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="ani" tvg-logo="https://mvvv.eu/b/templates/ottch/ani.png" tvg-name="Ani",Ani
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/485/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="84" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="detsky-mir" tvg-logo="https://mvvv.eu/b/templates/ottch/detsky-mir.png" tvg-name="Детский мир",Детский мир
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/171/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="85" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Мультипликация (SD)" tvg-id="solnce" tvg-logo="https://mvvv.eu/b/templates/ottch/solnce.png" tvg-name="Солнце",Солнце
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/202/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="86" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="multimania" tvg-logo="https://mvvv.eu/b/templates/ottch/multimania.png" tvg-name="Мультимания",Мультимания
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/1342/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="87" tvg-rec="0" group-title="Мультипликация (SD)" tvg-id="multimuzyka" tvg-logo="https://mvvv.eu/b/templates/ottch/multimuzyka.png" tvg-name="Мульт и музыка",Мульт и музыка
+#EXTGRP:Мультипликация (SD)
+http://ott.crd-s.net/286/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="88" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="pervy" tvg-logo="https://mvvv.eu/b/templates/ottch/pervyj.png" tvg-name="Первый канал",Первый канал
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/154/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="89" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="sts-int" tvg-logo="https://mvvv.eu/b/templates/ottch/sts-int.png" tvg-name="СТС International",СТС International
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/654/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="90" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="sts" tvg-logo="https://mvvv.eu/b/templates/ottch/sts.png" tvg-name="СТС",СТС
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/161/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="91" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="sts-love" tvg-logo="https://mvvv.eu/b/templates/ottch/sts-love.png" tvg-name="СТС Love",СТС Love
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/399/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="92" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="tnt" tvg-logo="https://mvvv.eu/b/templates/ottch/tnt.png" tvg-name="ТНТ",ТНТ
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/159/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="93" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="tnt4" tvg-logo="https://mvvv.eu/b/templates/ottch/tnt4.png" tvg-name="ТНТ4",ТНТ4
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/189/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="94" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="rentv" tvg-logo="https://mvvv.eu/b/templates/ottch/rentv.png" tvg-name="Рен ТВ",Рен ТВ
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/160/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="95" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="tv3-ru" tvg-logo="https://mvvv.eu/b/templates/ottch/tv3.png" tvg-name="ТВ3",ТВ3
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/208/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="96" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="domashny" tvg-logo="https://mvvv.eu/b/templates/ottch/domashny.png" tvg-name="Домашний",Домашний
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/251/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="97" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="perec-int" tvg-logo="https://mvvv.eu/b/templates/ottch/perec.png" tvg-name="Перец",Перец
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/504/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="98" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="5kanal-ru" tvg-logo="https://mvvv.eu/b/templates/ottch/5kanal-ru.png" tvg-name="Пятый канал",Пятый канал
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/298/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="99" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="zvezda" tvg-logo="https://mvvv.eu/b/templates/ottch/zvezda.png" tvg-name="Звезда",Звезда
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/299/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="100" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="piatnica" tvg-logo="https://mvvv.eu/b/templates/ottch/pyatnica.png" tvg-name="Пятница!",Пятница!
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/162/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="101" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="che" tvg-logo="https://mvvv.eu/b/templates/ottch/che.png" tvg-name="Че",Че
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/245/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="102" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="moskva-24" tvg-logo="https://mvvv.eu/b/templates/ottch/moskva-24.png" tvg-name="Москва-24",Москва-24
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/292/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="103" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="mir" tvg-logo="https://mvvv.eu/b/templates/ottch/mir.png" tvg-name="Мир",Мир
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/254/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="104" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="yu" tvg-logo="https://mvvv.eu/b/templates/ottch/yu.png" tvg-name="Ю",Ю
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/409/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="105" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="zvezda-plus" tvg-logo="https://mvvv.eu/b/templates/ottch/zvezda-plus.png" tvg-name="Звезда Плюс",Звезда Плюс
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/867/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="106" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="super" tvg-logo="https://mvvv.eu/b/templates/ottch/super.png" tvg-name="Супер",Супер
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/728/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="107" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="mir-24" tvg-logo="https://mvvv.eu/b/templates/ottch/mir24.png" tvg-name="Мир 24",Мир 24
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/359/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="108" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="ntv" tvg-logo="https://mvvv.eu/b/templates/ottch/ntv-white.png" tvg-name="НТВ",НТВ
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/157/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="109" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="ntv-mir" tvg-logo="https://mvvv.eu/b/templates/ottch/ntv-mir.png" tvg-name="НТВ-Мир",НТВ-Мир
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/526/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="110" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="tvcentr" tvg-logo="https://mvvv.eu/b/templates/ottch/tvcentr.png" tvg-name="ТВ Центр",ТВ Центр
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/156/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="111" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="rossia1" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia-hd.png" tvg-name="Россия",Россия
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/155/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="112" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="rossia-24" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia24.png" tvg-name="Россия 24",Россия 24
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/195/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="113" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="kultura" tvg-logo="https://mvvv.eu/b/templates/ottch/kultura.png" tvg-name="Культура",Культура
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/204/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="114" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="doverie" tvg-logo="https://mvvv.eu/b/templates/ottch/doverie.png" tvg-name="Москва Доверие",Москва Доверие
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/428/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="115" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="sankt-peterburg" tvg-logo="https://mvvv.eu/b/templates/ottch/sankt-peterburg.png" tvg-name="Санкт-Петербург",Санкт-Петербург
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/411/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="116" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="otr" tvg-logo="https://mvvv.eu/b/templates/ottch/otr_ru.png" tvg-name="ОТР",ОТР
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/327/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="117" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="rtvi" tvg-logo="https://mvvv.eu/b/templates/ottch/rtvi.png" tvg-name="RTVi",RTVi
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/260/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="118" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="nostalgia" tvg-logo="https://mvvv.eu/b/templates/ottch/nostalgia.png" tvg-name="Ностальгия",Ностальгия
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/334/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="119" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="8kanal-ru" tvg-logo="https://mvvv.eu/b/templates/ottch/8kanal-ru.png" tvg-name="8 канал",8 канал
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/418/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="120" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="volga" tvg-logo="https://mvvv.eu/b/templates/ottch/volga.png" tvg-name="Волга",Волга
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/1676/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="121" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="radost-moya" tvg-logo="https://mvvv.eu/b/templates/ottch/radost-moya.png" tvg-name="Радость моя",Радость моя
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/410/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="122" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="kaleydoskop-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/kaleydoskop.png" tvg-name="Калейдоскоп ТВ",Калейдоскоп ТВ
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/956/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="123" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="tnv-planeta" tvg-logo="https://mvvv.eu/b/templates/ottch/tnv-planeta.png" tvg-name="ТНВ-Планета",ТНВ-Планета
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/423/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="124" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="vmeste-rf" tvg-logo="https://mvvv.eu/b/templates/ottch/vmeste-rf.png" tvg-name="Вместе-РФ",Вместе-РФ
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/430/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="125" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="rtr-planeta-eu" tvg-logo="https://mvvv.eu/b/templates/ottch/rtr-planeta.png" tvg-name="РТР-Планета",РТР-Планета
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/450/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="126" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="tolk" tvg-logo="https://mvvv.eu/b/templates/ottch/tolk.png" tvg-name="Толк",Толк
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/751/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="127" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общероссийские (SD)" tvg-id="lipeckoe-vremia" tvg-logo="https://mvvv.eu/b/templates/ottch/lipeckoe-vremia.png" tvg-name="Липецкое время",Липецкое время
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/725/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="128" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="k24" tvg-logo="https://mvvv.eu/b/templates/ottch/k24.png" tvg-name="K24",K24
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/702/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="129" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="rostov-papa" tvg-logo="https://mvvv.eu/b/templates/ottch/rostov-papa.png" tvg-name="Ростов-папа",Ростов-папа
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/703/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="130" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="vsia-ufa" tvg-logo="https://mvvv.eu/b/templates/ottch/vsia-ufa.png" tvg-name="Вся Уфа",Вся Уфа
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/706/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="131" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="grozny" tvg-logo="https://mvvv.eu/b/templates/ottch/grozny.png" tvg-name="Грозный",Грозный
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/655/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="132" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="bst" tvg-logo="https://mvvv.eu/b/templates/ottch/bst.png" tvg-name="БСТ",БСТ
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/634/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="133" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="centralnoye-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/centralnoye-tv.png" tvg-name="Центральное телевидение",Центральное телевидение
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/406/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="134" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="atv-media" tvg-logo="https://mvvv.eu/b/templates/ottch/atv-media.jpg" tvg-name="АТВ-Медиа",АТВ-Медиа
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/716/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="135" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="soyuz" tvg-logo="https://mvvv.eu/b/templates/ottch/soyuz.png" tvg-name="Союз",Союз
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/211/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="136" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="spas" tvg-logo="https://mvvv.eu/b/templates/ottch/spas.png" tvg-name="Спас",Спас
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/205/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="137" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="zhar-ptica" tvg-logo="https://mvvv.eu/b/templates/ottch/zhar-ptica.png" tvg-name="Жар Птица",Жар Птица
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/761/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="138" tvg-rec="0" group-title="Общероссийские (SD)" tvg-id="yurgan" tvg-logo="https://mvvv.eu/b/templates/ottch/yurgan.png" tvg-name="Юрган",Юрган
+#EXTGRP:Общероссийские (SD)
+http://ott.crd-s.net/319/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="139" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="inter-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/inter-ua.png" tvg-name="Интер",Интер
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/492/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="140" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общеукраинские (SD)" tvg-id="inter-plus-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/inter-plus-ua.png" tvg-name="Интер+",Интер+
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/1071/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="141" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="1plus1" tvg-logo="https://mvvv.eu/b/templates/ottch/1plus1.png" tvg-name="1+1",1+1
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/489/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="142" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общеукраинские (SD)" tvg-id="1plus1-int" tvg-logo="https://mvvv.eu/b/templates/ottch/1plus1_int.png" tvg-name="1+1 International",1+1 International
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/552/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="143" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общеукраинские (SD)" tvg-id="2plus2" tvg-logo="https://mvvv.eu/b/templates/ottch/2plus2.png" tvg-name="2+2",2+2
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/551/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="144" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общеукраинские (SD)" tvg-id="stb-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/stb.png" tvg-name="СТБ",СТБ
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/490/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="145" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="ictv-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/ictv.png" tvg-name="ICTV",ICTV
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/543/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="146" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общеукраинские (SD)" tvg-id="novy-kanal-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/novy.png" tvg-name="Новый канал",Новый канал
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/546/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="147" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общеукраинские (SD)" tvg-id="tet-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/tet.png" tvg-name="ТЕТ",ТЕТ
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/493/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="148" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общеукраинские (SD)" tvg-id="ntn-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/ntn.png" tvg-name="НТН",НТН
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/491/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="149" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общеукраинские (SD)" tvg-id="k1-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/k1-ua.png" tvg-name="К1",К1
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/541/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="150" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="k2-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/k2-ua.png" tvg-name="К2",К2
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/547/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="151" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общеукраинские (SD)" tvg-id="kvartal-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/kvartal-tv.png" tvg-name="Квартал ТВ",Квартал ТВ
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/691/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="152" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="enter-film" tvg-logo="https://mvvv.eu/b/templates/ottch/enter-film.png" tvg-name="Enter-фильм",Enter-фильм
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/544/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="153" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="mega-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/mega-ua.png" tvg-name="Мега",Мега
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/549/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="154" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общеукраинские (SD)" tvg-id="sonce-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/sonce-ua.png" tvg-name="Сонце",Сонце
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/533/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="155" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Общеукраинские (SD)" tvg-id="bigudi" tvg-logo="https://mvvv.eu/b/templates/ottch/bigudi.png" tvg-name="Бiгудi",Бiгудi
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/1118/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="156" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="otse" tvg-logo="https://mvvv.eu/b/templates/ottch/otse.png" tvg-name="ОЦЕ",ОЦЕ
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/653/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="157" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="5kanal-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/5ua.png" tvg-name="5 канал Украина",5 канал Украина
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/494/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="158" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="bolt" tvg-logo="https://mvvv.eu/b/templates/ottch/bolt.png" tvg-name="Bolt",Bolt
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/550/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="159" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="zoom-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/zoom-ua.png" tvg-name="Zoom",Zoom
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/548/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="160" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="ua-pershy" tvg-logo="https://mvvv.eu/b/templates/ottch/ua-pershy.png" tvg-name="UA:Перший",UA:Перший
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/542/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="161" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="priamyj" tvg-logo="https://mvvv.eu/b/templates/ottch/priamyj.png" tvg-name="Прямий",Прямий
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/638/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="162" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="kultura-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/kultura-ua.png" tvg-name="UA:Культура",UA:Культура
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/1222/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="163" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="chernomorskaya" tvg-logo="https://mvvv.eu/b/templates/ottch/chernomorskaya.png" tvg-name="Черноморская ТРК",Черноморская ТРК
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/545/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="164" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="4kanal" tvg-logo="https://mvvv.eu/b/templates/ottch/4kanal.png" tvg-name="4 канал",4 канал
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/685/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="165" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="epoque" tvg-logo="https://mvvv.eu/b/templates/ottch/epoque.png" tvg-name="Epoque",Epoque
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/1228/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="166" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="unian-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/unian.png" tvg-name="Унiан",Унiан
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/1081/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="167" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="espreso-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/espreso.png" tvg-name="Еспресо TV",Еспресо TV
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/496/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="168" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="filmua-drama" tvg-logo="https://mvvv.eu/b/templates/ottch/filmua-drama.png" tvg-name="Film.Ua Drama",Film.Ua Drama
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/1229/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="169" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="vintazh" tvg-logo="https://mvvv.eu/b/templates/ottch/vintazh.png" tvg-name="Винтаж",Винтаж
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/536/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="170" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="maxxi-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/maxxi-tv.png" tvg-name="НАШ",НАШ
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/540/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="171" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="24news-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/24news-ua.png" tvg-name="24 Украина",24 Украина
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/844/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="172" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="fauna" tvg-logo="https://mvvv.eu/b/templates/ottch/fauna.png" tvg-name="Фауна",Фауна
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/1080/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="173" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="nadia" tvg-logo="https://mvvv.eu/b/templates/ottch/nadia.png" tvg-name="Надежда",Надежда
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/532/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="174" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="dom" tvg-logo="https://mvvv.eu/b/templates/ottch/dom.png" tvg-name="Дом",Дом
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/1117/0f6c8cedc5efcfea938b/
+#EXTINF:-1 group-title="Telegram" tvg-logo="https://images.icon-icons.com/923/PNG/96/telegram_icon-icons.com_72055.png",https://t.me/TvZaTak
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="Telegram"  tvg-id=2210 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Обнова в телеграм
+http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="Telegram"  tvg-id=2079 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",В телеграм
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:-1 group-title="Telegram"  tvg-logo="https://i.ibb.co/MCPX1NK/1.png",https://t.me/+O8eTIacO1AA5YTgy
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:-1 group-title="Telegram"  tvg-logo="https://images.icon-icons.com/923/PNG/96/telegram_icon-icons.com_72055.png",https://t.me/TvZaTak
+http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="Telegram"  tvg-id=2079 tvg-logo="http://epg.it999.ru/img/2079.png",Обнова в телеграм
+http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="Telegram"  tvg-id=2079 tvg-logo="https://images.icon-icons.com/923/PNG/96/telegram_icon-icons.com_72055.png",Телеграм @TvZaTak
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="Telegram"  tvg-id=2079 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",ХаЛьВа канал
+http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
+#EXTINF:0 channel-id="175" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="mariupolskoe" tvg-logo="https://mvvv.eu/b/templates/ottch/mariupolskoe.png" tvg-name="Мариупольское ТВ",Мариупольское ТВ
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/1146/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="176" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="trk-chernivci" tvg-logo="https://mvvv.eu/b/templates/ottch/trk-chernivci.png" tvg-name="Черновцы",Черновцы
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/1151/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="177" tvg-rec="0" group-title="Общеукраинские (SD)" tvg-id="33-kanal-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/33-kanal-ua.png" tvg-name="33 канал",33 канал
+#EXTGRP:Общеукраинские (SD)
+http://ott.crd-s.net/1147/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="178" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="discovery-channel" tvg-logo="https://mvvv.eu/b/templates/ottch/discovery-channel.png" tvg-name="Discovery Channel",Discovery Channel
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/175/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="179" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="discovery-science" tvg-logo="https://mvvv.eu/b/templates/ottch/discovery-science.png" tvg-name="Discovery Science",Discovery Science
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/173/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="180" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="national-geographic" tvg-logo="https://mvvv.eu/b/templates/ottch/national-geographic-hd.png" tvg-name="National Geographic",National Geographic
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/181/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="181" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="nat-geo-wild" tvg-logo="https://mvvv.eu/b/templates/ottch/nat-geo-wild.png" tvg-name="Nat Geo Wild",Nat Geo Wild
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/194/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="182" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="tlc" tvg-logo="https://mvvv.eu/b/templates/ottch/tlc.png" tvg-name="TLC",TLC
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/174/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="183" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="id-xtra-eu" tvg-logo="https://mvvv.eu/b/templates/ottch/idxtra.png" tvg-name="ID Xtra Европа",ID Xtra Европа
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/455/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="184" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="travel-adventure" tvg-logo="https://mvvv.eu/b/templates/ottch/travel-adventure.png" tvg-name="Travel+Adventure",Travel+Adventure
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/293/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="185" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="history" tvg-logo="https://mvvv.eu/b/templates/ottch/history.png" tvg-name="History",History
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/387/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="186" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="viasat-history" tvg-logo="https://mvvv.eu/b/templates/ottch/viasat-history.png" tvg-name="Viasat History",Viasat History
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/217/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="187" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="viasat-explore" tvg-logo="https://mvvv.eu/b/templates/ottch/viasat-explore.png" tvg-name="Viasat Explore",Viasat Explore
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/218/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="188" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="viasat-nature" tvg-logo="https://mvvv.eu/b/templates/ottch/viasat-nature.png" tvg-name="Viasat Nature",Viasat Nature
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/255/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="189" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="travel-channel" tvg-logo="https://mvvv.eu/b/templates/ottch/travel-channel.png" tvg-name="Travel Channel",Travel Channel
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/388/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="190" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="animal-planet-eu" tvg-logo="https://mvvv.eu/b/templates/ottch/animal-planet.png" tvg-name="Animal Planet",Animal Planet
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/170/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="191" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="zootv" tvg-logo="https://mvvv.eu/b/templates/ottch/zootv47.png" tvg-name="Zoo TV",Zoo TV
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/478/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="192" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="zoopark" tvg-logo="https://mvvv.eu/b/templates/ottch/zoopark.png" tvg-name="ZooПарк",ZooПарк
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/244/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="193" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="rtg-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/rtg-tv.png" tvg-name="RTG TV",RTG TV
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/242/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="194" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="poexali" tvg-logo="https://mvvv.eu/b/templates/ottch/poexali.png" tvg-name="Поехали!",Поехали!
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/408/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="195" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="moya-planeta" tvg-logo="https://mvvv.eu/b/templates/ottch/moya-planeta.png" tvg-name="Моя Планета",Моя Планета
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/264/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="196" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="teleputeshestvia" tvg-logo="https://mvvv.eu/b/templates/ottch/teleputeshestvia.png" tvg-name="Телепутешествия",Телепутешествия
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/367/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="197" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="eda" tvg-logo="https://mvvv.eu/b/templates/ottch/eda.png" tvg-name="Еда",Еда
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/363/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="198" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="pervy-vegetariansky" tvg-logo="https://mvvv.eu/b/templates/ottch/pervy-vegetariansky.png" tvg-name="Первый вегетарианский",Первый вегетарианский
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/437/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="199" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="kuxnia-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/kuhnia.png" tvg-name="Кухня ТВ",Кухня ТВ
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/186/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="200" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="zhivaya-planeta" tvg-logo="https://mvvv.eu/b/templates/ottch/zhivaya-planeta.png" tvg-name="Живая планета",Живая планета
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/482/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="201" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="domashnie-zhivotnye" tvg-logo="https://mvvv.eu/b/templates/ottch/domashnie-zhivotnye.png" tvg-name="Домашние животные",Домашние животные
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/257/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="202" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="pes-i-ko" tvg-logo="https://mvvv.eu/b/templates/ottch/pes-i-ko.png" tvg-name="Пёс и Ко",Пёс и Ко
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/726/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="203" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="galaxy-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/galaxy-tv.png" tvg-name="Galaxy-TV",Galaxy-TV
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/402/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="204" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="oxotnik-i-rybolov" tvg-logo="https://mvvv.eu/b/templates/ottch/oxotnik-i-rybolov.png" tvg-name="Охотник и рыболов",Охотник и рыболов
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/366/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="205" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="oxota-i-rybalka" tvg-logo="https://mvvv.eu/b/templates/ottch/oxota-i-rybalka.png" tvg-name="Охота и рыбалка",Охота и рыбалка
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/227/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="206" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="dialogi-o-rybalke" tvg-logo="https://mvvv.eu/b/templates/ottch/dialogi-o-rybalke.png" tvg-name="Диалоги о рыбалке",Диалоги о рыбалке
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/960/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="207" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="muzhskoy" tvg-logo="https://mvvv.eu/b/templates/ottch/muzhskoj.png" tvg-name="Мужской",Мужской
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/353/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="208" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="nasha-tema" tvg-logo="https://mvvv.eu/b/templates/ottch/nasha-tema.png" tvg-name="Наша тема",Наша тема
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/722/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="209" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="dikiy" tvg-logo="https://mvvv.eu/b/templates/ottch/dikiy.png" tvg-name="Дикий",Дикий
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/522/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="210" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="oruzhie" tvg-logo="https://mvvv.eu/b/templates/ottch/oruzhie.png" tvg-name="Оружие",Оружие
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/458/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="211" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="trofey" tvg-logo="https://mvvv.eu/b/templates/ottch/trofey.png" tvg-name="Трофей",Трофей
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/912/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="212" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="fastfunbox-hd" tvg-logo="https://mvvv.eu/b/templates/ottch/fastfunbox-hd.png" tvg-name="Fast&FunBox",Fast&FunBox
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/741/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="213" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="zagorodny" tvg-logo="https://mvvv.eu/b/templates/ottch/zagorodny.png" tvg-name="Загородный",Загородный
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/477/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="214" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="zagorodnaya-zhizn" tvg-logo="https://mvvv.eu/b/templates/ottch/zagorodnaya-zhizn.png" tvg-name="Загородная жизнь",Загородная жизнь
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/412/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="215" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="nauka-20" tvg-logo="https://mvvv.eu/b/templates/ottch/nauka-20.png" tvg-name="Наука 2.0",Наука 2.0
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/285/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="216" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="nano-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/nano-tv.png" tvg-name="Нано",Нано
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/449/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="217" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="nauka" tvg-logo="https://mvvv.eu/b/templates/ottch/nauka.png" tvg-name="Наука UA",Наука UA
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/1149/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="218" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="365-dnej" tvg-logo="https://mvvv.eu/b/templates/ottch/365-dnej.png" tvg-name="365 дней ТВ",365 дней ТВ
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/335/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="219" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="kto-est-kto" tvg-logo="https://mvvv.eu/b/templates/ottch/kto-est-kto.png" tvg-name="Кто есть кто",Кто есть кто
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/341/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="220" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="sovsek" tvg-logo="https://mvvv.eu/b/templates/ottch/sovsek.png" tvg-name="Совершенно секретно",Совершенно секретно
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/350/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="221" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="rtd-ru" tvg-logo="https://mvvv.eu/b/templates/ottch/rtd-ru.png" tvg-name="RT Д Русский",RT Д Русский
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/369/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="222" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="tochka-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/tochka-tv.png" tvg-name="Точка",Точка
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/371/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="223" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="avto24" tvg-logo="https://mvvv.eu/b/templates/ottch/avto24.png" tvg-name="Авто24",Авто24
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/376/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="224" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="1auto" tvg-logo="https://mvvv.eu/b/templates/ottch/1auto.png" tvg-name="Первый автомобильный",Первый автомобильный
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/686/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="225" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="avto-plus" tvg-logo="https://mvvv.eu/b/templates/ottch/avto-plus.png" tvg-name="Авто Плюс",Авто Плюс
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/179/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="226" tvg-rec="3" catchup="shift" catchup-days="3" group-title="Развлекательные (SD)" tvg-id="drive" tvg-logo="https://mvvv.eu/b/templates/ottch/drive.png" tvg-name="Драйв",Драйв
+#EXTGRP:Развлекательные (SD)
+#EXTINF:0 channel-id="227" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="texno-24" tvg-logo="https://mvvv.eu/b/templates/ottch/texno-24.png" tvg-name="Техно 24",Техно 24
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/238/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="228" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="tochka-otryva" tvg-logo="https://mvvv.eu/b/templates/ottch/tochka-otryva.png" tvg-name="Точка отрыва",Точка отрыва
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/523/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="229" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="istoria" tvg-logo="https://mvvv.eu/b/templates/ottch/istoria.png" tvg-name="История",История
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/391/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="230" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="krasnaya-linia" tvg-logo="https://mvvv.eu/b/templates/ottch/krasnaya-linia.png" tvg-name="Красная линия",Красная линия
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/768/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="231" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="teatr" tvg-logo="https://mvvv.eu/b/templates/ottch/teatr.png" tvg-name="Театр",Театр
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/436/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="232" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="otkryty-mir" tvg-logo="https://mvvv.eu/b/templates/ottch/otkryty-mir.png" tvg-name="Открытый мир",Открытый мир
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/445/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="233" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="voprosy-i-otvety" tvg-logo="https://mvvv.eu/b/templates/ottch/voprosy-i-otvety.png" tvg-name="Вопросы и ответы",Вопросы и ответы
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/259/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="234" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="da-vinci" tvg-logo="https://mvvv.eu/b/templates/ottch/da-vinci.png" tvg-name="Da Vinci Learning",Da Vinci Learning
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/256/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="235" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="sarafan" tvg-logo="https://mvvv.eu/b/templates/ottch/sarafan.png" tvg-name="Сарафан",Сарафан
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/253/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="236" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="vot-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/vot-tv.png" tvg-name="ВОТ ТВ",ВОТ ТВ
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/1047/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="237" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="ntv-style" tvg-logo="https://mvvv.eu/b/templates/ottch/ntv-style.png" tvg-name="НТВ Стиль",НТВ Стиль
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/631/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="238" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="mama" tvg-logo="https://mvvv.eu/b/templates/ottch/mama.png" tvg-name="Мама",Мама
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/229/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="239" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="zhivi" tvg-logo="https://mvvv.eu/b/templates/ottch/zhivi.png" tvg-name="Живи",Живи
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/248/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="240" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="telekafe" tvg-logo="https://mvvv.eu/b/templates/ottch/telekafe.png" tvg-name="Телекафе",Телекафе
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/250/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="241" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="mamonttv" tvg-logo="https://mvvv.eu/b/templates/ottch/mamonttv.png" tvg-name="Мамонт",Мамонт
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/1356/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="242" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="gags-network" tvg-logo="https://mvvv.eu/b/templates/ottch/gags-network.png" tvg-name="Gags Network",Gags Network
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/1357/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="243" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="kvn-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/kvn-tv.png" tvg-name="КВН ТВ",КВН ТВ
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/710/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="244" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="terra-ru" tvg-logo="https://mvvv.eu/b/templates/ottch/terra-ru.png" tvg-name="TERRA RU",TERRA RU
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/1522/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="245" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="terra" tvg-logo="https://mvvv.eu/b/templates/ottch/tera.png" tvg-name="Терра UA",Терра UA
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/380/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="246" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="mir-uvlecheniy" tvg-logo="https://mvvv.eu/b/templates/ottch/mir-uvlecheniy.png" tvg-name="#КтоКуда",#КтоКуда
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/711/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="247" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="bobior" tvg-logo="https://mvvv.eu/b/templates/ottch/bober.png" tvg-name="Бобёр",Бобёр
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/487/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="248" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="uspex" tvg-logo="https://mvvv.eu/b/templates/ottch/uspex.png" tvg-name="Успех",Успех
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/338/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="249" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="doktor" tvg-logo="https://mvvv.eu/b/templates/ottch/doktor.png" tvg-name="Доктор",Доктор
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/203/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="250" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="psixologia-21" tvg-logo="https://mvvv.eu/b/templates/ottch/psixologia-21.png" tvg-name="Психология 21",Психология 21
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/258/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="251" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="zdorovoe-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/zdorovoe-tv.png" tvg-name="Здоровое ТВ",Здоровое ТВ
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/236/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="252" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="ege-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/ege-tv.png" tvg-name="ЕГЭ",ЕГЭ
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/228/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="253" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="prodvizhenie" tvg-logo="https://mvvv.eu/b/templates/ottch/prodvizhenie.png" tvg-name="Продвижение",Продвижение
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/771/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="254" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="tri-angela" tvg-logo="https://mvvv.eu/b/templates/ottch/tri-angela.png" tvg-name="Три Ангела",Три Ангела
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/713/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="255" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="fashion-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/fashion-tv.png" tvg-name="Fashion TV",Fashion TV
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/355/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="256" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="world-fashion-channel" tvg-logo="https://mvvv.eu/b/templates/ottch/world-fashion-channel.png" tvg-name="World Fashion Channel",World Fashion Channel
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/196/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="257" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="shop-n-show" tvg-logo="https://mvvv.eu/b/templates/ottch/shop-n-show.png" tvg-name="Shop&Show",Shop&Show
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/443/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="258" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="shopping-live" tvg-logo="https://mvvv.eu/b/templates/ottch/shopping-live.png" tvg-name="Shopping Live",Shopping Live
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/419/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="259" tvg-rec="0" group-title="Развлекательные (SD)" tvg-id="yuvelirochka" tvg-logo="https://mvvv.eu/b/templates/ottch/yuvelirochka.png" tvg-name="Ювелирочка",Ювелирочка
+#EXTGRP:Развлекательные (SD)
+http://ott.crd-s.net/762/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="260" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="muzyka-pervogo" tvg-logo="https://mvvv.eu/b/templates/ottch/muzyka-pervogo.png" tvg-name="Музыка Первого",Музыка Первого
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/263/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="261" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="muztv" tvg-logo="https://mvvv.eu/b/templates/ottch/muztv.png" tvg-name="Муз-ТВ",Муз-ТВ
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/163/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="262" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="bridge-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/bridge-tv.png" tvg-name="Bridge TV",Bridge TV
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/210/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="263" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="bridge-tv-classic" tvg-logo="https://mvvv.eu/b/templates/ottch/bridge-tv-classic.png" tvg-name="Bridge TV Classic",Bridge TV Classic
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/481/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="264" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="bridge-tv-ruxit" tvg-logo="https://mvvv.eu/b/templates/ottch/bridge-tv-ruxit.png" tvg-name="Bridge TV Русский хит",Bridge TV Русский хит
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/288/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="265" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="bridge-tv-dance" tvg-logo="https://mvvv.eu/b/templates/ottch/bridge-tv-dance.png" tvg-name="Bridge TV Dance",Bridge TV Dance
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/1106/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="266" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="bridge-tv-fresh" tvg-logo="https://mvvv.eu/b/templates/ottch/bridge-tv-fresh.png" tvg-name="Bridge TV Fresh",Bridge TV Fresh
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/392/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="267" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="bridge-tv-shlager" tvg-logo="https://mvvv.eu/b/templates/ottch/bridge-tv-shlager.png" tvg-name="Bridge TV Шлягер",Bridge TV Шлягер
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/1360/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="268" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="europa-plus-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/europa-plus-tv.png" tvg-name="Европа Плюс ТВ",Европа Плюс ТВ
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/289/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="269" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="la-minor" tvg-logo="https://mvvv.eu/b/templates/ottch/la-minor.png" tvg-name="Ля-минор",Ля-минор
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/348/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="270" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="musicbox" tvg-logo="https://mvvv.eu/b/templates/ottch/musicbox.png" tvg-name="Music Box Gold",Music Box Gold
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/354/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="271" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="russian-musicbox" tvg-logo="https://mvvv.eu/b/templates/ottch/russian-musicbox.png" tvg-name="Russian MusicBox",Russian MusicBox
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/973/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="272" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="mtv-dance" tvg-logo="https://mvvv.eu/b/templates/ottch/mtv-dance.png" tvg-name="MTV Club",MTV Club
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/193/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="273" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="mtv-hits" tvg-logo="https://mvvv.eu/b/templates/ottch/mtv_hits.png" tvg-name="MTV Hits",MTV Hits
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/360/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="274" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="vh1-european" tvg-logo="https://mvvv.eu/b/templates/ottch/vh1-european.png" tvg-name="MTV 00s",MTV 00s
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/394/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="275" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="mtv-rocks" tvg-logo="https://mvvv.eu/b/templates/ottch/mtv-rocks.png" tvg-name="MTV 90s",MTV 90s
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/361/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="276" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="vh1-classic" tvg-logo="https://mvvv.eu/b/templates/ottch/vh1-classic.png" tvg-name="MTV 80s",MTV 80s
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/197/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="277" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="m1-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/m1-ua.png" tvg-name="М1",М1
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/640/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="278" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="m2-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/m2-ua.png" tvg-name="М2",М2
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/641/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="279" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="o2tv" tvg-logo="https://mvvv.eu/b/templates/ottch/o2tv.png" tvg-name="О2 ТВ",О2 ТВ
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/414/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="280" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="acb-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/acb-tv.png" tvg-name="ACB TV",ACB TV
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/421/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="281" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="mcm-top" tvg-logo="https://mvvv.eu/b/templates/ottch/mcm-top.png" tvg-name="MCM Top",MCM Top
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/192/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="282" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="zhara" tvg-logo="https://mvvv.eu/b/templates/ottch/zhara.png" tvg-name="Жара",Жара
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/452/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="283" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="mezzo" tvg-logo="https://mvvv.eu/b/templates/ottch/mezzo.png" tvg-name="Mezzo",Mezzo
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/201/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="284" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="ru-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/rutv.png" tvg-name="RU.TV",RU.TV
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/207/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="285" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="shanson-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/shanson-tv.png" tvg-name="Шансон-TB",Шансон-TB
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/209/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="286" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="tnt-music" tvg-logo="https://mvvv.eu/b/templates/ottch/tnt-music.png" tvg-name="ТНТ-Music",ТНТ-Music
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/212/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="287" tvg-rec="0" group-title="Музыкальные (SD)" tvg-id="muzsoyuz" tvg-logo="https://mvvv.eu/b/templates/ottch/muzsoyuz.png" tvg-name="МузСоюз",МузСоюз
+#EXTGRP:Музыкальные (SD)
+http://ott.crd-s.net/747/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="288" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/match.png" tvg-name="Матч!",Матч!
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/158/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="289" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-arena" tvg-logo="https://mvvv.eu/b/templates/ottch/match-arena.png" tvg-name="Матч! Арена",Матч! Арена
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/265/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="290" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-football1" tvg-logo="https://mvvv.eu/b/templates/ottch/match-football-1.png" tvg-name="Матч! Футбол 1",Матч! Футбол 1
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/200/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="291" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-football2" tvg-logo="https://mvvv.eu/b/templates/ottch/match-football-2.png" tvg-name="Матч! Футбол 2",Матч! Футбол 2
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/333/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="292" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-football3" tvg-logo="https://mvvv.eu/b/templates/ottch/match-football-3.png" tvg-name="Матч! Футбол 3",Матч! Футбол 3
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/377/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="293" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-nash-sport" tvg-logo="https://mvvv.eu/b/templates/ottch/match-nash-sport.png" tvg-name="Матч! Страна",Матч! Страна
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/267/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="294" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-igra" tvg-logo="https://mvvv.eu/b/templates/ottch/match-igra.png" tvg-name="Матч! Игра",Матч! Игра
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/283/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="295" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-planeta" tvg-logo="https://mvvv.eu/b/templates/ottch/match-planeta.png" tvg-name="Матч! Планета",Матч! Планета
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/167/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="296" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-premier" tvg-logo="https://mvvv.eu/b/templates/ottch/match-premiere.png" tvg-name="Матч! Премьер",Матч! Премьер
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/185/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="297" tvg-rec="0" group-title="Спорт (SD)" tvg-id="match-boets" tvg-logo="https://mvvv.eu/b/templates/ottch/match-boec.png" tvg-name="Матч! Боец",Матч! Боец
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/180/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="298" tvg-rec="0" group-title="Спорт (SD)" tvg-id="football-ru" tvg-logo="https://mvvv.eu/b/templates/ottch/futbol.png" tvg-name="Футбол",Футбол
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/300/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="299" tvg-rec="0" group-title="Спорт (SD)" tvg-id="sport1-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/sport1ua.png" tvg-name="Спорт 1 Украина",Спорт 1 Украина
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/501/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="300" tvg-rec="0" group-title="Спорт (SD)" tvg-id="sport2-ua" tvg-logo="https://mvvv.eu/b/templates/ottch/sport2ua.png" tvg-name="Спорт 2 Украина",Спорт 2 Украина
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/502/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="301" tvg-rec="0" group-title="Спорт (SD)" tvg-id="box-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/box-tv.png" tvg-name="Бокс ТВ",Бокс ТВ
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/503/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="302" tvg-rec="0" group-title="Спорт (SD)" tvg-id="viasat-sport" tvg-logo="https://mvvv.eu/b/templates/ottch/viasat-sport.png" tvg-name="Viasat Sport",Viasat Sport
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/216/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="303" tvg-rec="0" group-title="Спорт (SD)" tvg-id="extreme-sports" tvg-logo="https://mvvv.eu/b/templates/ottch/extreme-sports.png" tvg-name="Extreme sports",Extreme sports
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/199/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="304" tvg-rec="0" group-title="Спорт (SD)" tvg-id="kxl" tvg-logo="https://mvvv.eu/b/templates/ottch/kxl.png" tvg-name="КХЛ ТВ",КХЛ ТВ
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/277/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="305" tvg-rec="0" group-title="Спорт (SD)" tvg-id="mir-basketbola" tvg-logo="https://mvvv.eu/b/templates/ottch/mir-basketbola.png" tvg-name="Мир баскетбола",Мир баскетбола
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/1109/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="306" tvg-rec="0" group-title="Спорт (SD)" tvg-id="fightbox-hd" tvg-logo="https://mvvv.eu/b/templates/ottch/fightbox-hd.png" tvg-name="FightBox",FightBox
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/742/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="307" tvg-rec="0" group-title="Спорт (SD)" tvg-id="m1global" tvg-logo="https://mvvv.eu/b/templates/ottch/m1global.png" tvg-name="M-1 Global",M-1 Global
+#EXTGRP:Спорт (SD)
+http://ott.crd-s.net/729/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="308" tvg-rec="0" group-title="Белоруссия (SD)" tvg-id="rtr-belarus" tvg-logo="https://mvvv.eu/b/templates/ottch/rtr-belarus.png" tvg-name="РТР-Беларусь",РТР-Беларусь
+#EXTGRP:Белоруссия (SD)
+http://ott.crd-s.net/758/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="309" tvg-rec="0" group-title="Белоруссия (SD)" tvg-id="belarus24" tvg-logo="https://mvvv.eu/b/templates/ottch/belarus24.png" tvg-name="Беларусь-24",Беларусь-24
+#EXTGRP:Белоруссия (SD)
+http://ott.crd-s.net/441/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="310" tvg-rec="0" group-title="Белоруссия (SD)" tvg-id="stv-by" tvg-logo="https://mvvv.eu/b/templates/ottch/stv-by.png" tvg-name="СТВ Беларусь",СТВ Беларусь
+#EXTGRP:Белоруссия (SD)
+http://ott.crd-s.net/665/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="311" tvg-rec="0" group-title="Белоруссия (SD)" tvg-id="belros" tvg-logo="https://mvvv.eu/b/templates/ottch/belros100.png" tvg-name="БелРос",БелРос
+#EXTGRP:Белоруссия (SD)
+http://ott.crd-s.net/405/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="312" tvg-rec="0" group-title="Белоруссия (SD)" tvg-id="belsat" tvg-logo="https://mvvv.eu/b/templates/ottch/belsat.png" tvg-name="Белсат ТВ",Белсат ТВ
+#EXTGRP:Белоруссия (SD)
+http://ott.crd-s.net/416/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="313" tvg-rec="0" group-title="Новости (SD)" tvg-id="vremia-n" tvg-logo="https://mvvv.eu/b/templates/ottch/vremia-n.jpg" tvg-name="Время Н",Время Н
+#EXTGRP:Новости (SD)
+http://ott.crd-s.net/777/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="314" tvg-rec="0" group-title="Новости (SD)" tvg-id="newsnetwork" tvg-logo="https://mvvv.eu/b/templates/ottch/newsnetwork-ua.png" tvg-name="NewsNetwork UA",NewsNetwork UA
+#EXTGRP:Новости (SD)
+http://ott.crd-s.net/531/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="315" tvg-rec="0" group-title="Новости (SD)" tvg-id="ldpr-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/ldpr-tv.png" tvg-name="ЛДПР ТВ",ЛДПР ТВ
+#EXTGRP:Новости (SD)
+http://ott.crd-s.net/635/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="316" tvg-rec="0" group-title="Новости (SD)" tvg-id="euronews" tvg-logo="https://mvvv.eu/b/templates/ottch/euronews.png" tvg-name="EuroNews",EuroNews
+#EXTGRP:Новости (SD)
+http://ott.crd-s.net/169/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="317" tvg-rec="0" group-title="Новости (SD)" tvg-id="cgtn" tvg-logo="https://mvvv.eu/b/templates/ottch/cgtn.png" tvg-name="CGTN Русский",CGTN Русский
+#EXTGRP:Новости (SD)
+http://ott.crd-s.net/434/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="318" tvg-rec="0" group-title="Новости (SD)" tvg-id="rbk" tvg-logo="https://mvvv.eu/b/templates/ottch/rbk.png" tvg-name="РБК",РБК
+#EXTGRP:Новости (SD)
+http://ott.crd-s.net/183/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="319" tvg-rec="0" group-title="Новости (SD)" tvg-id="rzhd-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/rzhd-tv.png" tvg-name="РЖД ТВ",РЖД ТВ
+#EXTGRP:Новости (SD)
+http://ott.crd-s.net/723/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="320" tvg-rec="0" group-title="Новости (SD)" tvg-id="360-news" tvg-logo="https://mvvv.eu/b/templates/ottch/360-news.png" tvg-name="360° Новости",360° Новости
+#EXTGRP:Новости (SD)
+http://ott.crd-s.net/748/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="321" tvg-rec="0" group-title="Новости (SD)" tvg-id="cnn" tvg-logo="https://mvvv.eu/b/templates/ottch/cnn.png" tvg-name="CNN",CNN
+#EXTGRP:Новости (SD)
+http://ott.crd-s.net/240/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="322" tvg-rec="0" group-title="Новости (SD)" tvg-id="bbc" tvg-logo="https://mvvv.eu/b/templates/ottch/bbc.png" tvg-name="BBC",BBC
+#EXTGRP:Новости (SD)
+http://ott.crd-s.net/241/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="323" tvg-rec="0" group-title="XXX (SD)" tvg-id="playboy-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/playboy-tv.png" tvg-name="Playboy TV",Playboy TV
+#EXTGRP:XXX (SD)
+http://ott.crd-s.net/788/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="324" tvg-rec="0" group-title="XXX (SD)" tvg-id="blue-hustler" tvg-logo="https://mvvv.eu/b/templates/ottch/blue-hustler.png" tvg-name="Blue Hustler",Blue Hustler
+#EXTGRP:XXX (SD)
+http://ott.crd-s.net/243/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="325" tvg-rec="0" group-title="XXX (SD)" tvg-id="brazzers-tv-europe" tvg-logo="https://mvvv.eu/b/templates/ottch/brazzers.png" tvg-name="Brazzers TV",Brazzers TV
+#EXTGRP:XXX (SD)
+http://ott.crd-s.net/215/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="326" tvg-rec="0" group-title="XXX (SD)" tvg-id="brazzers-tv-europe" tvg-logo="https://mvvv.eu/b/templates/ottch/brazzers.png" tvg-name="Brazzers TV International",Brazzers TV International
+#EXTGRP:XXX (SD)
+http://ott.crd-s.net/671/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="327" tvg-rec="0" group-title="XXX (SD)" tvg-id="dorcel" tvg-logo="https://mvvv.eu/b/templates/ottch/dorcel.png" tvg-name="Red Lips",Red Lips
+#EXTGRP:XXX (SD)
+http://ott.crd-s.net/519/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="328" tvg-rec="0" group-title="XXX (SD)" tvg-id="russkaya-noch" tvg-logo="https://mvvv.eu/b/templates/ottch/russkaya-noch.png" tvg-name="Русская ночь",Русская ночь
+#EXTGRP:XXX (SD)
+http://ott.crd-s.net/279/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="329" tvg-rec="0" group-title="XXX (SD)" tvg-id="o-la-la" tvg-logo="https://mvvv.eu/b/templates/ottch/olala.png" tvg-name="Olala",Olala
+#EXTGRP:XXX (SD)
+http://ott.crd-s.net/674/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="330" tvg-rec="0" group-title="XXX (SD)" tvg-id="private-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/private-tv.png" tvg-name="Private TV",Private TV
+#EXTGRP:XXX (SD)
+http://ott.crd-s.net/779/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="331" tvg-rec="0" group-title="XXX (SD)" tvg-id="barely-legal" tvg-logo="https://mvvv.eu/b/templates/ottch/barely-legal.png" tvg-name="Barely Legal",Barely Legal
+#EXTGRP:XXX (SD)
+http://ott.crd-s.net/535/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="332" tvg-rec="0" group-title="English (SD)" tvg-id="sky-sport-action-uk" tvg-logo="https://mvvv.eu/b/templates/ottch/sky-sport-action-uk.png" tvg-name="Sky Sports Action",Sky Sports Action
+#EXTGRP:English (SD)
+http://ott.crd-s.net/821/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="333" tvg-rec="0" group-title="English (SD)" tvg-id="rt-america" tvg-logo="https://mvvv.eu/b/templates/ottch/rt-america.png" tvg-name="RT America",RT America
+#EXTGRP:English (SD)
+http://ott.crd-s.net/331/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="334" tvg-rec="0" group-title="English (SD)" tvg-id="arirang" tvg-logo="https://mvvv.eu/b/templates/ottch/arirang.png" tvg-name="Arirang",Arirang
+#EXTGRP:English (SD)
+http://ott.crd-s.net/422/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="335" tvg-rec="0" group-title="English (SD)" tvg-id="cgtn" tvg-logo="https://mvvv.eu/b/templates/ottch/cgtn.png" tvg-name="CGTN",CGTN
+#EXTGRP:English (SD)
+http://ott.crd-s.net/424/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="336" tvg-rec="0" group-title="English (SD)" tvg-id="cnbc-europe" tvg-logo="https://mvvv.eu/b/templates/ottch/cnbc-europe.png" tvg-name="CNBC",CNBC
+#EXTGRP:English (SD)
+http://ott.crd-s.net/740/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="337" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="pervy-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/pervyj.png" tvg-name="Первый канал +2",Первый канал +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/555/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="338" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="ntv-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/ntv-white.png" tvg-name="НТВ +2",НТВ +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/558/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="339" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="5kanal-ru-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/5kanal-ru.png" tvg-name="Пятый канал +2",Пятый канал +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/559/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="340" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="tv3-ru-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/tv3.png" tvg-name="ТВ3 +2",ТВ3 +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/569/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="341" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="domashny-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/domashny.png" tvg-name="Домашний +2",Домашний +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/568/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="342" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="tnt-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/tnt.png" tvg-name="ТНТ +2",ТНТ +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/573/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="343" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="tnt4-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/tnt4.png" tvg-name="ТНТ4 +2",ТНТ4 +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/615/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="344" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="sts-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/sts-pl2.png" tvg-name="СТС +2",СТС +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/567/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="345" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="piatnica-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/pyatnica.png" tvg-name="Пятница +2",Пятница +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/570/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="346" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="rossia1-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia1.png" tvg-name="Россия 1 +2",Россия 1 +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/556/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="347" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="rossia-k" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia-k.png" tvg-name="Россия К +2",Россия К +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/560/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="348" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="rossia-24" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia24.png" tvg-name="Россия 24 +2",Россия 24 +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/561/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="349" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="rentv-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/rentv.png" tvg-name="Рен ТВ +2",Рен ТВ +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/565/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="350" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="tvcentr-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/tvcentr.png" tvg-name="ТВ Центр +2",ТВ Центр +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/564/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="351" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="mir-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/mir.png" tvg-name="Мир +2",Мир +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/572/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="352" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="zvezda-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/zvezda.png" tvg-name="Звезда +2",Звезда +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/571/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="353" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="karusel" tvg-logo="https://mvvv.eu/b/templates/ottch/karusel.png" tvg-name="Карусель +2",Карусель +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/562/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="354" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="2na2-pl2" tvg-logo="https://mvvv.eu/b/templates/ottch/2x2-pl2.png" tvg-name="2х2 +2",2х2 +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/616/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="355" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="otr" tvg-logo="https://mvvv.eu/b/templates/ottch/otr_ru.png" tvg-name="ОТР +2",ОТР +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/563/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="356" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="spas" tvg-logo="https://mvvv.eu/b/templates/ottch/spas.png" tvg-name="Спас +2",Спас +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/566/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="357" tvg-rec="0" group-title="Общероссийские (+2)" tvg-id="muztv" tvg-logo="https://mvvv.eu/b/templates/ottch/muztv.png" tvg-name="Муз-ТВ +2",Муз-ТВ +2
+#EXTGRP:Общероссийские (+2)
+http://ott.crd-s.net/574/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="358" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="pervy-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/pervyj.png" tvg-name="Первый канал +4",Первый канал +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/575/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="359" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="ntv-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/ntv-white.png" tvg-name="НТВ +4",НТВ +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/578/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="360" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="5kanal-ru-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/5kanal-ru.png" tvg-name="Пятый канал +4",Пятый канал +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/579/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="361" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="tv3-ru-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/tv3.png" tvg-name="ТВ3 +4",ТВ3 +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/589/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="362" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="domashny-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/domashny.png" tvg-name="Домашний +4",Домашний +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/588/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="363" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="tnt-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/tnt.png" tvg-name="ТНТ +4",ТНТ +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/593/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="364" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="sts-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/sts-pl4.png" tvg-name="СТС +4",СТС +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/587/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="365" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="piatnica-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/pyatnica.png" tvg-name="Пятница +4",Пятница +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/590/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="366" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="rentv-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/rentv.png" tvg-name="Рен ТВ +4",Рен ТВ +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/585/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="367" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="mir-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/mir.png" tvg-name="Мир +4",Мир +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/592/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="368" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="tvcentr-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/tvcentr.png" tvg-name="ТВ Центр +4",ТВ Центр +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/584/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="369" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="zvezda-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/zvezda.png" tvg-name="Звезда +4",Звезда +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/591/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="370" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="rossia1-pl4" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia1.png" tvg-name="Россия 1 +4",Россия 1 +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/576/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="371" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="rossia-k" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia-k.png" tvg-name="Россия К +4",Россия К +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/580/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="372" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="rossia-24" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia24.png" tvg-name="Россия 24 +4",Россия 24 +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/581/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="373" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="karusel" tvg-logo="https://mvvv.eu/b/templates/ottch/karusel.png" tvg-name="Карусель +4",Карусель +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/582/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="374" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="otr" tvg-logo="https://mvvv.eu/b/templates/ottch/otr_ru.png" tvg-name="ОТР +4",ОТР +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/583/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="375" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="spas" tvg-logo="https://mvvv.eu/b/templates/ottch/spas.png" tvg-name="Спас +4",Спас +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/586/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="376" tvg-rec="0" group-title="Общероссийские (+4)" tvg-id="muztv" tvg-logo="https://mvvv.eu/b/templates/ottch/muztv.png" tvg-name="Муз-ТВ +4",Муз-ТВ +4
+#EXTGRP:Общероссийские (+4)
+http://ott.crd-s.net/594/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="377" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="pervy-pl6" tvg-logo="https://mvvv.eu/b/templates/ottch/pervyj.png" tvg-name="Первый канал +6",Первый канал +6
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/595/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="378" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="ntv-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/ntv-white.png" tvg-name="НТВ +7",НТВ +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/598/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="379" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="5kanal-ru-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/5kanal-ru.png" tvg-name="Пятый канал +7",Пятый канал +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/599/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="380" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="rentv-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/rentv.png" tvg-name="Рен ТВ +7",Рен ТВ +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/605/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="381" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="sts-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/sts-pl7.png" tvg-name="СТС +7",СТС +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/607/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="382" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="tnt-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/tnt.png" tvg-name="ТНТ +7",ТНТ +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/613/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="383" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="tvcentr-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/tvcentr.png" tvg-name="ТВ Центр +7",ТВ Центр +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/604/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="384" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="domashny-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/domashny.png" tvg-name="Домашний +7",Домашний +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/608/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="385" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="tv3-ru-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/tv3.png" tvg-name="ТВ3 +7",ТВ3 +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/609/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="386" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="piatnica-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/pyatnica.png" tvg-name="Пятница +7",Пятница +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/610/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="387" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="rossia1-pl6" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia1.png" tvg-name="Россия 1 +6",Россия 1 +6
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/596/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="388" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="rossia-k" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia-k.png" tvg-name="Россия К +6",Россия К +6
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/600/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="389" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="rossia-24" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia24.png" tvg-name="Россия 24 +6",Россия 24 +6
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/601/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="390" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="karusel-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/karusel.png" tvg-name="Карусель +7",Карусель +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/602/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="391" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="zvezda-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/zvezda.png" tvg-name="Звезда +7",Звезда +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/611/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="392" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="mir-pl7" tvg-logo="https://mvvv.eu/b/templates/ottch/mir.png" tvg-name="Мир +7",Мир +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/612/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="393" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="spas" tvg-logo="https://mvvv.eu/b/templates/ottch/spas.png" tvg-name="Спас +6",Спас +6
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/606/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="394" tvg-rec="0" group-title="Общероссийские (+6)" tvg-id="muztv" tvg-logo="https://mvvv.eu/b/templates/ottch/muztv.png" tvg-name="Муз-ТВ +7",Муз-ТВ +7
+#EXTGRP:Общероссийские (+6)
+http://ott.crd-s.net/614/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="395" tvg-rec="0" group-title="Общероссийские (+8)" tvg-id="pervy-pl8" tvg-logo="https://mvvv.eu/b/templates/ottch/pervyj.png" tvg-name="Первый канал +8",Первый канал +8
+#EXTGRP:Общероссийские (+8)
+http://ott.crd-s.net/618/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="396" tvg-rec="0" group-title="Общероссийские (+8)" tvg-id="ntv" tvg-logo="https://mvvv.eu/b/templates/ottch/ntv-white.png" tvg-name="НТВ +8",НТВ +8
+#EXTGRP:Общероссийские (+8)
+http://ott.crd-s.net/622/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="397" tvg-rec="0" group-title="Общероссийские (+8)" tvg-id="rossia1-pl8" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia1.png" tvg-name="Россия 1 +8",Россия 1 +8
+#EXTGRP:Общероссийские (+8)
+http://ott.crd-s.net/619/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="398" tvg-rec="0" group-title="Общероссийские (+8)" tvg-id="5kanal-ru" tvg-logo="https://mvvv.eu/b/templates/ottch/5kanal-ru.png" tvg-name="Пятый канал +8",Пятый канал +8
+#EXTGRP:Общероссийские (+8)
+http://ott.crd-s.net/623/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="399" tvg-rec="0" group-title="Общероссийские (+8)" tvg-id="rossia-k" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia-k.png" tvg-name="Россия К +8",Россия К +8
+#EXTGRP:Общероссийские (+8)
+http://ott.crd-s.net/624/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="400" tvg-rec="0" group-title="Общероссийские (+8)" tvg-id="rossia-24" tvg-logo="https://mvvv.eu/b/templates/ottch/rossia24.png" tvg-name="Россия 24 +8",Россия 24 +8
+#EXTGRP:Общероссийские (+8)
+http://ott.crd-s.net/625/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="401" tvg-rec="0" group-title="Общероссийские (+8)" tvg-id="karusel" tvg-logo="https://mvvv.eu/b/templates/ottch/karusel.png" tvg-name="Карусель +8",Карусель +8
+#EXTGRP:Общероссийские (+8)
+http://ott.crd-s.net/626/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="402" tvg-rec="0" group-title="Общероссийские (+8)" tvg-id="otr" tvg-logo="https://mvvv.eu/b/templates/ottch/otr_ru.png" tvg-name="ОТР +8",ОТР +8
+#EXTGRP:Общероссийские (+8)
+http://ott.crd-s.net/627/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="403" tvg-rec="0" group-title="Общероссийские (+8)" tvg-id="tvcentr" tvg-logo="https://mvvv.eu/b/templates/ottch/tvcentr.png" tvg-name="ТВ Центр +8",ТВ Центр +8
+#EXTGRP:Общероссийские (+8)
+http://ott.crd-s.net/628/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="404" tvg-rec="0" group-title="Польша (SD)" tvg-id="kinopolskamuz-int" tvg-logo="https://mvvv.eu/b/templates/ottch/kinopolskamuz-int.png" tvg-name="Kino Polska Muzyka International",Kino Polska Muzyka International
+#EXTGRP:Польша (SD)
+http://ott.crd-s.net/868/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="405" tvg-rec="0" group-title="Польша (SD)" tvg-id="nickelodeon-pl" tvg-logo="https://mvvv.eu/b/templates/ottch/nickelodeon-pl.png" tvg-name="Nickelodeon",Nickelodeon
+#EXTGRP:Польша (SD)
+http://ott.crd-s.net/882/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="406" tvg-rec="0" group-title="Польша (SD)" tvg-id="tele5-pl" tvg-logo="https://mvvv.eu/b/templates/ottch/tele5-pl.png" tvg-name="Tele 5",Tele 5
+#EXTGRP:Польша (SD)
+http://ott.crd-s.net/1276/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="407" tvg-rec="0" group-title="Польша (SD)" tvg-id="polonia1" tvg-logo="https://mvvv.eu/b/templates/ottch/polonia1.png" tvg-name="Polonia 1",Polonia 1
+#EXTGRP:Польша (SD)
+http://ott.crd-s.net/1277/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="408" tvg-rec="0" group-title="Румыния (SD)" tvg-id="RO: Eurosport 1 HD" tvg-logo="https://mvvv.eu/b/templates/ottch/ro: eurosport 1 hd.png" tvg-name="Eurosport 1",Eurosport 1
+#EXTGRP:Румыния (SD)
+http://ott.crd-s.net/789/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="409" tvg-rec="0" group-title="Румыния (SD)" tvg-id="RO: Eurosport 2 HD" tvg-logo="https://mvvv.eu/b/templates/ottch/ro: eurosport 2 hd.png" tvg-name="Eurosport 2",Eurosport 2
+#EXTGRP:Румыния (SD)
+http://ott.crd-s.net/790/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="410" tvg-rec="0" group-title="Латвия (SD)" tvg-id="3-plus-latvia" tvg-logo="https://mvvv.eu/b/templates/ottch/3plus.png" tvg-name="3+ Латвия",3+ Латвия
+#EXTGRP:Латвия (SD)
+http://ott.crd-s.net/836/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="411" tvg-rec="0" group-title="Латвия (SD)" tvg-id="tv6-lv" tvg-logo="https://mvvv.eu/b/templates/ottch/tv6-lv.png" tvg-name="TV6",TV6
+#EXTGRP:Латвия (SD)
+http://ott.crd-s.net/837/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="412" tvg-rec="0" group-title="Латвия (SD)" tvg-id="ltv1" tvg-logo="https://mvvv.eu/b/templates/ottch/ltv1.png" tvg-name="LTV1",LTV1
+#EXTGRP:Латвия (SD)
+http://ott.crd-s.net/839/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="413" tvg-rec="0" group-title="Латвия (SD)" tvg-id="ltv7" tvg-logo="https://mvvv.eu/b/templates/ottch/ltv7.png" tvg-name="LTV7",LTV7
+#EXTGRP:Латвия (SD)
+http://ott.crd-s.net/840/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="414" tvg-rec="0" group-title="Литва (SD)" tvg-id="siauliutv-lt" tvg-logo="https://mvvv.eu/b/templates/ottch/siauliutv-lt.png" tvg-name="Siauliu TV",Siauliu TV
+#EXTGRP:Литва (SD)
+http://ott.crd-s.net/1345/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="415" tvg-rec="0" group-title="Литва (SD)" tvg-id="infotv-lt" tvg-logo="https://mvvv.eu/b/templates/ottch/infotv-lt.png" tvg-name="Info TV",Info TV
+#EXTGRP:Литва (SD)
+http://ott.crd-s.net/1344/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="416" tvg-rec="0" group-title="Литва (SD)" tvg-id="btv" tvg-logo="https://mvvv.eu/b/templates/ottch/btv.png" tvg-name="BTV",BTV
+#EXTGRP:Литва (SD)
+http://ott.crd-s.net/1076/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="417" tvg-rec="0" group-title="Литва (SD)" tvg-id="lnk" tvg-logo="https://mvvv.eu/b/templates/ottch/lnk.jpg" tvg-name="LNK",LNK
+#EXTGRP:Литва (SD)
+http://ott.crd-s.net/841/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="418" tvg-rec="0" group-title="Литва (SD)" tvg-id="tv3-lt" tvg-logo="https://mvvv.eu/b/templates/ottch/tv3-lt.png" tvg-name="TV3",TV3
+#EXTGRP:Литва (SD)
+http://ott.crd-s.net/853/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="419" tvg-rec="0" group-title="Литва (SD)" tvg-id="tv6-lt" tvg-logo="https://mvvv.eu/b/templates/ottch/tv6-lt.png" tvg-name="TV6",TV6
+#EXTGRP:Литва (SD)
+http://ott.crd-s.net/854/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="420" tvg-rec="0" group-title="Литва (SD)" tvg-id="lrt-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/lrt-tv.png" tvg-name="LRT Televizija",LRT Televizija
+#EXTGRP:Литва (SD)
+http://ott.crd-s.net/856/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="421" tvg-rec="0" group-title="Литва (SD)" tvg-id="tv1-lt" tvg-logo="https://mvvv.eu/b/templates/ottch/tv1-lt.png" tvg-name="TV1",TV1
+#EXTGRP:Литва (SD)
+http://ott.crd-s.net/857/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="422" tvg-rec="0" group-title="Литва (SD)" tvg-id="lietuvos-ryto-televizija" tvg-logo="https://mvvv.eu/b/templates/ottch/lietuvos-ryto-televizija.png" tvg-name="Lietuvos ryto televizija",Lietuvos ryto televizija
+#EXTGRP:Литва (SD)
+http://ott.crd-s.net/858/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="423" tvg-rec="0" group-title="Литва (SD)" tvg-id="pingviniukas-lt" tvg-logo="https://mvvv.eu/b/templates/ottch/pingviniukas-lt.png" tvg-name="Pingviniukas",Pingviniukas
+#EXTGRP:Литва (SD)
+http://ott.crd-s.net/948/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="424" tvg-rec="0" group-title="Литва (SD)" tvg-id="2tv-lt" tvg-logo="https://mvvv.eu/b/templates/ottch/2tv-lt.png" tvg-name="2TV",2TV
+#EXTGRP:Литва (SD)
+http://ott.crd-s.net/1346/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="425" tvg-rec="0" group-title="Германия (SD)" tvg-id="wdr-hd-de" tvg-logo="https://mvvv.eu/b/templates/ottch/wdr-de.png" tvg-name="WDR",WDR
+#EXTGRP:Германия (SD)
+http://ott.crd-s.net/1135/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="426" tvg-rec="0" group-title="Германия (SD)" tvg-id="comedy-central-hd-orig-de" tvg-logo="https://mvvv.eu/b/templates/ottch/comedy-central-hd-orig-de.png" tvg-name="Comedy Central",Comedy Central
+#EXTGRP:Германия (SD)
+http://ott.crd-s.net/1159/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="427" tvg-rec="0" group-title="Германия (SD)" tvg-id="atv-de-hd-orig" tvg-logo="https://mvvv.eu/b/templates/ottch/atv-de.png" tvg-name="ATV",ATV
+#EXTGRP:Германия (SD)
+http://ott.crd-s.net/1162/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="428" tvg-rec="0" group-title="Германия (SD)" tvg-id="rt-hd-de" tvg-logo="https://mvvv.eu/b/templates/ottch/rt-hd-de.png" tvg-name="RT",RT
+#EXTGRP:Германия (SD)
+http://ott.crd-s.net/1177/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="429" tvg-rec="0" group-title="Германия (SD)" tvg-id="Nicktoons DE" tvg-logo="https://mvvv.eu/b/templates/ottch/nicktoons de.png" tvg-name="Nicktoons",Nicktoons
+#EXTGRP:Германия (SD)
+http://ott.crd-s.net/1176/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="430" tvg-rec="0" group-title="Израиль (SD)" tvg-id="9-kanal-hd-il" tvg-logo="https://mvvv.eu/b/templates/ottch/9kanal-israel.png" tvg-name="9 канал",9 канал
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/916/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="431" tvg-rec="0" group-title="Израиль (SD)" tvg-id="11-kanal-il" tvg-logo="https://mvvv.eu/b/templates/ottch/kan-11.png" tvg-name="Kan 11",Kan 11
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/917/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="432" tvg-rec="0" group-title="Израиль (SD)" tvg-id="12-kanal-il" tvg-logo="https://mvvv.eu/b/templates/ottch/channel-12.png" tvg-name="Channel 12",Channel 12
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/919/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="433" tvg-rec="0" group-title="Израиль (SD)" tvg-id="13-kanal-il" tvg-logo="https://mvvv.eu/b/templates/ottch/channel-13.png" tvg-name="Channel 13",Channel 13
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/920/0f6c8cedc5efcfea938b/live.m3u8
+#EXTINF:0 channel-id="434" tvg-rec="0" group-title="Израиль (SD)" tvg-id="14-kanal-il" tvg-logo="https://mvvv.eu/b/templates/ottch/channel-14-il.png" tvg-name="Channel 14",Channel 14
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/1680/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="435" tvg-rec="0" group-title="Израиль (SD)" tvg-id="i24-il" tvg-logo="https://mvvv.eu/b/templates/ottch/channel-24-il.png" tvg-name="Channel 24",Channel 24
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/1678/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="436" tvg-rec="0" group-title="Израиль (SD)" tvg-id="i24" tvg-logo="https://mvvv.eu/b/templates/ottch/i24.png" tvg-name="i24",i24
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/943/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="437" tvg-rec="0" group-title="Израиль (SD)" tvg-id="viva-il" tvg-logo="https://mvvv.eu/b/templates/ottch/viva-il.png" tvg-name="Viva Israël",Viva Israël
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/1258/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="438" tvg-rec="0" group-title="Израиль (SD)" tvg-id="viva-plus-il" tvg-logo="https://mvvv.eu/b/templates/ottch/viva-plus-il.png" tvg-name="Viva Plus Israël",Viva Plus Israël
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/1259/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="439" tvg-rec="0" group-title="Израиль (SD)" tvg-id="entertainment-il" tvg-logo="https://mvvv.eu/b/templates/ottch/entertainment-il.png" tvg-name="Entertainment",Entertainment
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/1677/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="440" tvg-rec="0" group-title="Израиль (SD)" tvg-id="makan-33-is" tvg-logo="https://mvvv.eu/b/templates/ottch/makan-33-is.png" tvg-name="Makan 33",Makan 33
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/921/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="441" tvg-rec="0" group-title="Израиль (SD)" tvg-id="baby-il" tvg-logo="https://mvvv.eu/b/templates/ottch/baby-il.png" tvg-name="Baby",Baby
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/922/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="442" tvg-rec="0" group-title="Израиль (SD)" tvg-id="yes-nickelodeon-il" tvg-logo="https://mvvv.eu/b/templates/ottch/yes-nickelodeon-il.png" tvg-name="Nickelodeon",Nickelodeon
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/924/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="443" tvg-rec="0" group-title="Израиль (SD)" tvg-id="hop-childhood-il" tvg-logo="https://mvvv.eu/b/templates/ottch/hop-channel.png" tvg-name="Hop! Channel",Hop! Channel
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/925/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="444" tvg-rec="0" group-title="Израиль (SD)" tvg-id="mtv-israel" tvg-logo="https://mvvv.eu/b/templates/ottch/mtv-israel.png" tvg-name="MTV Israel",MTV Israel
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/926/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="445" tvg-rec="0" group-title="Израиль (SD)" tvg-id="yes-drama-hd-il" tvg-logo="https://mvvv.eu/b/templates/ottch/yes-drama.png" tvg-name="Yes Drama",Yes Drama
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/929/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="446" tvg-rec="0" group-title="Израиль (SD)" tvg-id="yes-israel-il" tvg-logo="https://mvvv.eu/b/templates/ottch/yes-israeli-cinema.png" tvg-name="Yes Israeli",Yes Israeli
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/941/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="447" tvg-rec="0" group-title="Израиль (SD)" tvg-id="hot-cinema1-il" tvg-logo="https://mvvv.eu/b/templates/ottch/hot-cinema-1.png" tvg-name="HOT Cinema 1",HOT Cinema 1
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/928/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="448" tvg-rec="0" group-title="Израиль (SD)" tvg-id="hot-cinema2-il" tvg-logo="https://mvvv.eu/b/templates/ottch/hot-cinema-2.png" tvg-name="HOT Cinema 2",HOT Cinema 2
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/935/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="449" tvg-rec="0" group-title="Израиль (SD)" tvg-id="hot-cinema3-il" tvg-logo="https://mvvv.eu/b/templates/ottch/hot-cinema-3.png" tvg-name="HOT Cinema 3",HOT Cinema 3
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/938/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="450" tvg-rec="0" group-title="Израиль (SD)" tvg-id="hot-cinema4-il" tvg-logo="https://mvvv.eu/b/templates/ottch/hot-cinema-4.png" tvg-name="HOT Cinema 4",HOT Cinema 4
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/923/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="451" tvg-rec="0" group-title="Израиль (SD)" tvg-id="ego-total-il" tvg-logo="https://mvvv.eu/b/templates/ottch/ego-total.png" tvg-name="Ego Total",Ego Total
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/939/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="452" tvg-rec="0" group-title="Израиль (SD)" tvg-id="teennick-il" tvg-logo="https://mvvv.eu/b/templates/ottch/teennick.png" tvg-name="TeenNick",TeenNick
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/942/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="453" tvg-rec="0" group-title="Израиль (SD)" tvg-id="yes-docu-il-hd" tvg-logo="https://mvvv.eu/b/templates/ottch/yes-docu.png" tvg-name="Yes Docu",Yes Docu
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/1186/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="454" tvg-rec="0" group-title="Израиль (SD)" tvg-id="channel-98" tvg-logo="https://mvvv.eu/b/templates/ottch/channel-98.png" tvg-name="Channel 98",Channel 98
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/940/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="455" tvg-rec="0" group-title="Израиль (SD)" tvg-id="home-plus-il" tvg-logo="https://mvvv.eu/b/templates/ottch/home-plus-is.png" tvg-name="Home Plus",Home Plus
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/1187/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="456" tvg-rec="0" group-title="Израиль (SD)" tvg-id="hidabrut" tvg-logo="https://mvvv.eu/b/templates/ottch/hidabrut.png" tvg-name="Hidabrut",Hidabrut
+#EXTGRP:Израиль (SD)
+http://ott.crd-s.net/1201/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="457" tvg-rec="0" group-title="Турция (SD)" tvg-id="a-hbr-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/a-hbr-tr.png" tvg-name="A HBR",A HBR
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1478/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="458" tvg-rec="0" group-title="Турция (SD)" tvg-id="a2-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/a2-tr.png" tvg-name="A2",A2
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1479/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="459" tvg-rec="0" group-title="Турция (SD)" tvg-id="atv-hd-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/atv-hd-tr.png" tvg-name="ATV",ATV
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1480/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="460" tvg-rec="0" group-title="Турция (SD)" tvg-id="minikago-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/minikago-tr.png" tvg-name="minikaGO",minikaGO
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1481/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="461" tvg-rec="0" group-title="Турция (SD)" tvg-id="star-tv-hd-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/star-tv-hd-tr.png" tvg-name="Star TV HD TR",Star TV HD TR
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1482/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="462" tvg-rec="0" group-title="Турция (SD)" tvg-id="ntv-hd-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/ntv-hd-tr.png" tvg-name="NTV",NTV
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1490/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="463" tvg-rec="0" group-title="Турция (SD)" tvg-id="minika-cocuk" tvg-logo="https://mvvv.eu/b/templates/ottch/minika-cocuk.png" tvg-name="Minika Cocuk",Minika Cocuk
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1491/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="464" tvg-rec="0" group-title="Турция (SD)" tvg-id="beyaz-tv-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/beyaz-tv-tr.png" tvg-name="Beyaz TV",Beyaz TV
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1497/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="465" tvg-rec="0" group-title="Турция (SD)" tvg-id="trt-cocuk" tvg-logo="https://mvvv.eu/b/templates/ottch/trt-cocuk.png" tvg-name="TRT COCUK",TRT COCUK
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1502/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="466" tvg-rec="0" group-title="Турция (SD)" tvg-id="trt-haber-hd" tvg-logo="https://mvvv.eu/b/templates/ottch/trt-haber-hd.png" tvg-name="TRT Haber",TRT Haber
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1503/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="467" tvg-rec="0" group-title="Турция (SD)" tvg-id="trt-muzik-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/trt-muzik-tr.png" tvg-name="TRT Muzik",TRT Muzik
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1504/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="468" tvg-rec="0" group-title="Турция (SD)" tvg-id="trt-turk" tvg-logo="https://mvvv.eu/b/templates/ottch/trt-turk.png" tvg-name="TRT Türk",TRT Türk
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1505/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="469" tvg-rec="0" group-title="Турция (SD)" tvg-id="trt-1-hd" tvg-logo="https://mvvv.eu/b/templates/ottch/trt-1-hd.png" tvg-name="TRT 1",TRT 1
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1506/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="470" tvg-rec="0" group-title="Турция (SD)" tvg-id="trt-sport-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/trt-sport-tr.png" tvg-name="TRT Sport",TRT Sport
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1507/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="471" tvg-rec="0" group-title="Турция (SD)" tvg-id="tlc-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/tlc-tr.png" tvg-name="TLC",TLC
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1508/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="472" tvg-rec="0" group-title="Турция (SD)" tvg-id="halk-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/halk-tr.png" tvg-name="Halk",Halk
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1511/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="473" tvg-rec="0" group-title="Турция (SD)" tvg-id="ulusal-tr" tvg-logo="https://mvvv.eu/b/templates/ottch/ulusal-tr.png" tvg-name="Ulusal",Ulusal
+#EXTGRP:Турция (SD)
+http://ott.crd-s.net/1512/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="474" tvg-rec="0" group-title="Армения (SD)" tvg-id="kentron-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/kentron-tv.png" tvg-name="Kentron TV",Kentron TV
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1008/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="475" tvg-rec="0" group-title="Армения (SD)" tvg-id="kentron" tvg-logo="https://mvvv.eu/b/templates/ottch/kentron.png" tvg-name="Kentron",Kentron
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1013/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="476" tvg-rec="0" group-title="Армения (SD)" tvg-id="armenia-h1-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/armenia-h1-tv.png" tvg-name="Armenia H1 TV",Armenia H1 TV
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1009/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="477" tvg-rec="0" group-title="Армения (SD)" tvg-id="armenia-tv-europe" tvg-logo="https://mvvv.eu/b/templates/ottch/armenia-tv-europe.png" tvg-name="Armenia TV Europe",Armenia TV Europe
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1010/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="478" tvg-rec="0" group-title="Армения (SD)" tvg-id="shant" tvg-logo="https://mvvv.eu/b/templates/ottch/shant.png" tvg-name="Shant",Shant
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1011/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="479" tvg-rec="0" group-title="Армения (SD)" tvg-id="h2-am" tvg-logo="https://mvvv.eu/b/templates/ottch/h2-am.png" tvg-name="H2",H2
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1012/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="480" tvg-rec="0" group-title="Армения (SD)" tvg-id="ararat" tvg-logo="https://mvvv.eu/b/templates/ottch/ararat.png" tvg-name="Ararat",Ararat
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1014/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="481" tvg-rec="0" group-title="Армения (SD)" tvg-id="ar" tvg-logo="https://mvvv.eu/b/templates/ottch/ar.png" tvg-name="Ar",Ar
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1017/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="482" tvg-rec="0" group-title="Армения (SD)" tvg-id="erkir" tvg-logo="https://mvvv.eu/b/templates/ottch/erkir.png" tvg-name="Yerkir",Yerkir
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1015/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="483" tvg-rec="0" group-title="Армения (SD)" tvg-id="dar-21" tvg-logo="https://mvvv.eu/b/templates/ottch/dar-21.png" tvg-name="Dar 21",Dar 21
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1016/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="484" tvg-rec="0" group-title="Армения (SD)" tvg-id="shoghakat" tvg-logo="https://mvvv.eu/b/templates/ottch/shoghakat.png" tvg-name="Shoghakat",Shoghakat
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1018/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="485" tvg-rec="0" group-title="Армения (SD)" tvg-id="luys" tvg-logo="https://mvvv.eu/b/templates/ottch/luys.png" tvg-name="Luys",Luys
+#EXTGRP:Армения (SD)
+http://ott.crd-s.net/1019/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="486" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="kazakhstan" tvg-logo="https://mvvv.eu/b/templates/ottch/kazakhstan.png" tvg-name="Казахстан",Казахстан
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1030/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="487" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="ktk-kz" tvg-logo="https://mvvv.eu/b/templates/ottch/ktk-kz.png" tvg-name="КТК",КТК
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1031/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="488" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="pervy-kanal-eurasia-kz" tvg-logo="https://mvvv.eu/b/templates/ottch/pervyj.png" tvg-name="Первый канал Евразия",Первый канал Евразия
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1032/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="489" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="7kanal-kz" tvg-logo="https://mvvv.eu/b/templates/ottch/7kanal-kz.png" tvg-name="7 канал",7 канал
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1033/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="490" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="astana" tvg-logo="https://mvvv.eu/b/templates/ottch/astana.png" tvg-name="Астана",Астана
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1034/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="491" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="el-arna" tvg-logo="https://mvvv.eu/b/templates/ottch/el-arna.png" tvg-name="Ел Арна",Ел Арна
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1036/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="492" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="31-kanal-kz" tvg-logo="https://mvvv.eu/b/templates/ottch/31-kanal-kz.png" tvg-name="31 канал",31 канал
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1037/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="493" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="ntk-kz" tvg-logo="https://mvvv.eu/b/templates/ottch/ntk-kz.png" tvg-name="НТК",НТК
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1038/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="494" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="stv-kz" tvg-logo="https://mvvv.eu/b/templates/ottch/stv-kz.png" tvg-name="СТВ Казахстан",СТВ Казахстан
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1039/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="495" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="on-tv-kz" tvg-logo="https://mvvv.eu/b/templates/ottch/on-tv-kz.png" tvg-name="ON TV",ON TV
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1040/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="496" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="5kanal-kz" tvg-logo="https://mvvv.eu/b/templates/ottch/5kanal-kz.png" tvg-name="5 канал",5 канал
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1041/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="497" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="Saryarqa" tvg-logo="https://mvvv.eu/b/templates/ottch/saryarqa.png" tvg-name="Saryarqa",Saryarqa
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1042/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="498" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="xabar" tvg-logo="https://mvvv.eu/b/templates/ottch/xabar.png" tvg-name="Хабар",Хабар
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1043/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="499" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="kazsport" tvg-logo="https://mvvv.eu/b/templates/ottch/qazsport.png" tvg-name="KAZsport",KAZsport
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1044/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="500" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="xabar24" tvg-logo="https://mvvv.eu/b/templates/ottch/xabar24.png" tvg-name="Хабар 24",Хабар 24
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1045/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="501" tvg-rec="0" group-title="Казахстан (SD)" tvg-id="asyl-arna" tvg-logo="https://mvvv.eu/b/templates/ottch/asyl-arna.png" tvg-name="Асыл Арна",Асыл Арна
+#EXTGRP:Казахстан (SD)
+http://ott.crd-s.net/1046/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="502" tvg-rec="0" group-title="Узбекистан (SD)" tvg-id="ozbekiston" tvg-logo="https://mvvv.eu/b/templates/ottch/ozbekiston.png" tvg-name="Ozbekiston",Ozbekiston
+#EXTGRP:Узбекистан (SD)
+http://ott.crd-s.net/1048/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="503" tvg-rec="0" group-title="Узбекистан (SD)" tvg-id="yoshlar" tvg-logo="https://mvvv.eu/b/templates/ottch/yoshlar.png" tvg-name="Yoshlar",Yoshlar
+#EXTGRP:Узбекистан (SD)
+http://ott.crd-s.net/1049/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="504" tvg-rec="0" group-title="Узбекистан (SD)" tvg-id="toshkent" tvg-logo="https://mvvv.eu/b/templates/ottch/toshkent.png" tvg-name="Toshkent",Toshkent
+#EXTGRP:Узбекистан (SD)
+http://ott.crd-s.net/1050/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="505" tvg-rec="0" group-title="Узбекистан (SD)" tvg-id="uzsport" tvg-logo="https://mvvv.eu/b/templates/ottch/uzsport.png" tvg-name="UzSport",UzSport
+#EXTGRP:Узбекистан (SD)
+http://ott.crd-s.net/1051/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="506" tvg-rec="0" group-title="Узбекистан (SD)" tvg-id="madaniyat-va-marifat" tvg-logo="https://mvvv.eu/b/templates/ottch/madaniyat-va-marifat.png" tvg-name="Madaniyat va marifat",Madaniyat va marifat
+#EXTGRP:Узбекистан (SD)
+http://ott.crd-s.net/1052/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="507" tvg-rec="0" group-title="Узбекистан (SD)" tvg-id="mahhala" tvg-logo="https://mvvv.eu/b/templates/ottch/mahhala.png" tvg-name="Mahhala",Mahhala
+#EXTGRP:Узбекистан (SD)
+http://ott.crd-s.net/1058/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="508" tvg-rec="0" group-title="Узбекистан (SD)" tvg-id="dunyo" tvg-logo="https://mvvv.eu/b/templates/ottch/dunyo.png" tvg-name="Dunyo",Dunyo
+#EXTGRP:Узбекистан (SD)
+http://ott.crd-s.net/1053/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="509" tvg-rec="0" group-title="Узбекистан (SD)" tvg-id="bolajon" tvg-logo="https://mvvv.eu/b/templates/ottch/bolajon.png" tvg-name="Bolajon",Bolajon
+#EXTGRP:Узбекистан (SD)
+http://ott.crd-s.net/1054/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="510" tvg-rec="0" group-title="Узбекистан (SD)" tvg-id="navo" tvg-logo="https://mvvv.eu/b/templates/ottch/navo.png" tvg-name="Navo",Navo
+#EXTGRP:Узбекистан (SD)
+http://ott.crd-s.net/1055/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="511" tvg-rec="0" group-title="Узбекистан (SD)" tvg-id="Kinoteatr" tvg-logo="https://mvvv.eu/b/templates/ottch/kinoteatr.png" tvg-name="Kinoteatr",Kinoteatr
+#EXTGRP:Узбекистан (SD)
+http://ott.crd-s.net/1056/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="512" tvg-rec="0" group-title="Узбекистан (SD)" tvg-id="Oilaviy" tvg-logo="https://mvvv.eu/b/templates/ottch/oilaviy.png" tvg-name="Oilaviy",Oilaviy
+#EXTGRP:Узбекистан (SD)
+http://ott.crd-s.net/1057/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="513" tvg-rec="0" group-title="Азербайджан (SD)" tvg-id="Space-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/space-tv.png" tvg-name="Space TV",Space TV
+#EXTGRP:Азербайджан (SD)
+http://ott.crd-s.net/1060/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="514" tvg-rec="0" group-title="Азербайджан (SD)" tvg-id="cbc-sport" tvg-logo="https://mvvv.eu/b/templates/ottch/cbc-sport.png" tvg-name="CBC Sport",CBC Sport
+#EXTGRP:Азербайджан (SD)
+http://ott.crd-s.net/1062/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="515" tvg-rec="0" group-title="Азербайджан (SD)" tvg-id="cbc-az" tvg-logo="https://mvvv.eu/b/templates/ottch/cbc-az.png" tvg-name="CBC",CBC
+#EXTGRP:Азербайджан (SD)
+http://ott.crd-s.net/1063/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="516" tvg-rec="0" group-title="Азербайджан (SD)" tvg-id="aztv" tvg-logo="https://mvvv.eu/b/templates/ottch/aztv.png" tvg-name="AzTV",AzTV
+#EXTGRP:Азербайджан (SD)
+http://ott.crd-s.net/1064/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="517" tvg-rec="0" group-title="Азербайджан (SD)" tvg-id="ictimai-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/ictimai-tv.png" tvg-name="Ictimai TV",Ictimai TV
+#EXTGRP:Азербайджан (SD)
+http://ott.crd-s.net/1065/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="518" tvg-rec="0" group-title="Азербайджан (SD)" tvg-id="medeniyyet" tvg-logo="https://mvvv.eu/b/templates/ottch/medeniyyet.png" tvg-name="Medeniyyet",Medeniyyet
+#EXTGRP:Азербайджан (SD)
+http://ott.crd-s.net/1066/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="519" tvg-rec="0" group-title="Азербайджан (SD)" tvg-id="idman" tvg-logo="https://mvvv.eu/b/templates/ottch/idman.png" tvg-name="Idman TV",Idman TV
+#EXTGRP:Азербайджан (SD)
+http://ott.crd-s.net/1067/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="520" tvg-rec="0" group-title="Азербайджан (SD)" tvg-id="xazar-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/xazar-tv.png" tvg-name="Xazar TV",Xazar TV
+#EXTGRP:Азербайджан (SD)
+http://ott.crd-s.net/1068/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="521" tvg-rec="0" group-title="Азербайджан (SD)" tvg-id="azad-tv" tvg-logo="https://mvvv.eu/b/templates/ottch/azad-tv.png" tvg-name="Azad TV",Azad TV
+#EXTGRP:Азербайджан (SD)
+http://ott.crd-s.net/1069/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="522" tvg-rec="0" group-title="Швеция (SD)" tvg-id="nicktoons" tvg-logo="https://mvvv.eu/b/templates/ottch/nicktoons.png" tvg-name="Nicktoons",Nicktoons
+#EXTGRP:Швеция (SD)
+http://ott.crd-s.net/1231/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="523" tvg-rec="0" group-title="Швеция (SD)" tvg-id="vh1-european" tvg-logo="https://mvvv.eu/b/templates/ottch/vh1-european.png" tvg-name="VH1",VH1
+#EXTGRP:Швеция (SD)
+http://ott.crd-s.net/1232/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="524" tvg-rec="0" group-title="Швеция (SD)" tvg-id="vh1-classic" tvg-logo="https://mvvv.eu/b/templates/ottch/vh1-classic.png" tvg-name="VH1 Classic",VH1 Classic
+#EXTGRP:Швеция (SD)
+http://ott.crd-s.net/1233/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="525" tvg-rec="0" group-title="Швеция (SD)" tvg-id="disney-jr" tvg-logo="https://mvvv.eu/b/templates/ottch/disney-jr.png" tvg-name="Disney Junior",Disney Junior
+#EXTGRP:Швеция (SD)
+http://ott.crd-s.net/1236/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="526" tvg-rec="0" group-title="Швеция (SD)" tvg-id="fox" tvg-logo="https://mvvv.eu/b/templates/ottch/fox.png" tvg-name="Fox",Fox
+#EXTGRP:Швеция (SD)
+http://ott.crd-s.net/1241/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="527" tvg-rec="0" group-title="Швеция (SD)" tvg-id="paramount-channel" tvg-logo="https://mvvv.eu/b/templates/ottch/paramount-channel.png" tvg-name="Paramount Channel",Paramount Channel
+#EXTGRP:Швеция (SD)
+http://ott.crd-s.net/1242/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="528" tvg-rec="0" group-title="Швеция (SD)" tvg-id="mtv-europe" tvg-logo="https://mvvv.eu/b/templates/ottch/mtv-europe.png" tvg-name="MTV",MTV
+#EXTGRP:Швеция (SD)
+http://ott.crd-s.net/1243/0f6c8cedc5efcfea938b/
+#EXTINF:0 channel-id="529" tvg-rec="0" group-title="Швеция (SD)" tvg-id="nickelodeon-cis" tvg-logo="https://mvvv.eu/b/templates/ottch/nickelodeon.png" tvg-name="Nickelodeon",Nickelodeon
+#EXTGRP:Швеция (SD)
+http://ott.crd-s.net/1245/0f6c8cedc5efcfea938b/
+#EXTINF:-1 group-title="TvZaTak" tvg-logo="https://images.icon-icons.com/923/PNG/96/telegram_icon-icons.com_72055.png",https://t.me/TvZaTak
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="TvZaTak" tvg-id=2210 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Обнова в ХаЛьВа
+http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",В телеграм
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:-1 group-title="TvZaTak" tvg-logo="https://i.ibb.co/MCPX1NK/1.png",https://t.me/TvZaTak
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:-1 group-title="TvZaTak" tvg-logo="https://images.icon-icons.com/923/PNG/96/telegram_icon-icons.com_72055.png",https://t.me/+O8eTIacO1AA5YTgy
+http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="http://epg.it999.ru/img/2079.png",ХаЛьВа в телеграм
+http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="https://images.icon-icons.com/923/PNG/96/telegram_icon-icons.com_72055.png",Телеграм @TvZaTak
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",https://t.me/TvZaTak
+http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
+#EXT-X-ENDLIST
