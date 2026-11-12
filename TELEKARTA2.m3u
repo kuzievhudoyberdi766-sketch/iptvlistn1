@@ -1,0 +1,2356 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" group-title="Rutube",Первый канал HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Rutube",НТВ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=E5FB6LF5iVXO3ikWKlv1NA&e=2068506931&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="Rutube",ТНТ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=LTSrgtYBpE8r2aujUZ81LA&e=2068506931&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4 HD.png" group-title="Rutube",ТНТ4 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=gSfZr_b1wBE3aUNAD0mlXA&e=2068506932&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3 HD.png" group-title="Rutube",ТВ3 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="Rutube",2x2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
+#EXTINF:-1 group-title="Rutube",Суббота
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=K5qwXPiww7h9EIwodnvrAQ&e=2068506935&scheme=https
+#EXTINF:-1 group-title="Rutube",Ю
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ypW_sLxBx1nKFR48-gn7hQ&e=2068506935&scheme=https
+#EXTINF:-1 group-title="Rutube",Большая азия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=nzkWYIxTzLiM0tQ2DC9S5Q&e=2068506935&scheme=https
+#EXTINF:-1 group-title="Rutube",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Kmb5U8Od5In6YypbGhahIg&e=2068506936&scheme=https
+#EXTINF:-1 group-title="Rutube",Загородный International
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=bfA9fwhxngtkDUUGRQDgyQ&e=2068506936&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тайна.png" group-title="Rutube",Тайна
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=IjZLkcpj2TbbBby8FXaA-A&e=2068506937&scheme=https
+#EXTINF:-1 group-title="Rutube",Кинолаффка
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=xZI2TE-tbt1tUQAOd5Skkw&e=2068506937&scheme=https
+#EXTINF:-1 group-title="Rutube",HHQ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=1axCFUwM5UmTNQNRotjmDg&e=2068506938&scheme=https
+#EXTINF:-1 group-title="Rutube",GLN24-Геленджик
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=W0p7J9Gc8WMfTTJS16wx_g&e=2068506938&scheme=https
+#EXTINF:-1 group-title="Rutube",ОТС HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=20-tvVnScAMAY71ynfbDfA&e=2068506939&scheme=https
+#EXTINF:-1 group-title="Rutube",Сангат
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=VfcvAXG9j613HOCQ7F-ncQ&e=2068506939&scheme=https
+#EXTINF:-1 group-title="Rutube",Барс
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=9AK9N9MmA7SZGu07xOfVPQ&e=2068506940&scheme=https
+#EXTINF:-1 group-title="Rutube",Первоуральск ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=i57ALNooGhZkBKMqVFPuNw&e=2068506941&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/4 канал.png" group-title="Rutube",4 канал
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=yRwnm8q3D10B3aelK-sCWA&e=2068506941&scheme=https
+#EXTINF:-1 group-title="Rutube",Таврия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c5a272dc23ad505667bc2b54f98a3241/index.m3u8?s=ACKUOrygMpQo8a-UWzSq5w&e=2068506943&scheme=https
+#EXTINF:-1 group-title="Rutube",Ника ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=Rjhrb3UwE43id3gB2OCdbg&e=2068506944&scheme=https
+#EXTINF:-1 group-title="Rutube",UTV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=ZH8G3y4cctRxtocfUgyFdA&e=2068506945&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волга.png" group-title="Rutube",Волга
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=OL-y5S9Uur2e_Q5NMFtT2w&e=2068506946&scheme=https
+#EXTINF:-1 group-title="Rutube",ЛТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=Jcgx09XL6lQQZEFeh8KC0A&e=2068506946&scheme=https
+#EXTINF:-1 group-title="Rutube",Волга 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=_7UkYU5qiM1_bzRvs98rdQ&e=2068506946&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Башкортостан 24.png" group-title="Rutube",Башкортостан 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=us60bfvgc-Nmso1sVWL-aA&e=2068506947&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Абакан 24.png" group-title="Rutube",Абакан 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=Z1pmg2EDJRG5_fJnrEA3Vg&e=2068506947&scheme=https
+#EXTINF:-1 group-title="Rutube",Кубань 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=cWjDGKXikJfhg8j6Xq0BQw&e=2068506947&scheme=https
+#EXTINF:-1 group-title="Rutube",Саратов 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=_T4kalU2Bai06k_3NU7CFg&e=2068506948&scheme=https
+#EXTINF:-1 group-title="Rutube",ДОН 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=wTe0fhjopVDZq4bf5u9s-A&e=2068506949&scheme=https
+#EXTINF:-1 group-title="Rutube",Мордовия 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/04106d67b7888cda01b0ffa5e7ef757b/index.m3u8?s=t0aP1pubjwG_czfCZJzxlQ&e=2068506949&scheme=https
+#EXTINF:-1 group-title="Rutube",АРИС 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=NNiigeRnzGSb0ta10gINyg&e=2068506949&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БСТ.png" group-title="Rutube",БСТ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=2Pvy7bDJjOLbg1maRW3bGA&e=2068506950&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Катунь 24.png" group-title="Rutube",Катунь 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=iihU7-vaEftHxWuvkHMiZw&e=2068506950&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="Rutube",Мир 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=bS9Nn0sHn6JVte__04JtWQ&e=2068506951&scheme=https
+#EXTINF:-1 group-title="Rutube",Рифей-ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=klrPR4CAx9Iai25kN8Z09g&e=2068506952&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Продвижение.png" group-title="Rutube",Продвижение
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=gFfn2Zp4BM0EBETLXj3ZmA&e=2068506953&scheme=https
+#EXTINF:-1 group-title="Rutube",Импульс Севера
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=jbLsfoxTMYSjZxZ0EuWl6Q&e=2068506953&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТС Иркутск.png" group-title="Rutube",НТС Иркутск
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=Ni93prUgokkhWUHaZvdZNg&e=2068506954&scheme=https
+#EXTINF:-1 group-title="Rutube",Евразия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=3akJEkanz-U5fvTWzsTqUw&e=2068506955&scheme=https
+#EXTINF:-1 group-title="Rutube",МТВ Волгоград
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=FJLErVuiYbfw6IUn_-ryUg&e=2068506956&scheme=https
+#EXTINF:-1 group-title="Rutube",Енисей +4
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=CbDfspRbVf113fWS6Gjvzg&e=2068506956&scheme=https
+#EXTINF:-1 group-title="Rutube",Юрган
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=zxUoqLRoZxpyw5-hyHxewA&e=2068506956&scheme=https
+#EXTINF:-1 group-title="Rutube",Царьград
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
+#EXTINF:-1 group-title="Rutube",Омск ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=9dIdlqaQYWPAE65FWDpBfA&e=2068506958&scheme=https
+#EXTINF:-1 group-title="Rutube",ТБВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=BXZIDi_Ik0AAarQrLg1uxQ&e=2068506958&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Белогорья.png" group-title="Rutube",Мир Белогорья
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/31bd9a668e5dfe5feddb988c96c0998c/index.m3u8?s=2VnTlXtCWNGjuqe54eKaPg&e=2068506959&scheme=https
+#EXTINF:-1 group-title="Rutube",Ямал-Медиа
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=K7T_EANSMWzi8ynQcGKLcg&e=2068506959&scheme=https
+#EXTINF:-1 group-title="Rutube",UNIVER TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=DXEIqMq6He7Hw3HdpYdDTQ&e=2068506960&scheme=https
+#EXTINF:-1 group-title="Rutube",Первый Ярославский
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=VQcjSQESIj1rD68Kj54MNA&e=2068506960&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Тульский.png" group-title="Rutube",Первый Тульский
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=pcjielrH6M1ao9LlihheYA&e=2068506961&scheme=https
+#EXTINF:-1 group-title="Rutube",ТВ-ИН Магнитогорск
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/9feaea12e270b1e23f7c7e65da5652af/index.m3u8?s=KxqRF6w_RNJLrB8pw0m6RA&e=2068506962&scheme=https
+#EXTINF:-1 group-title="Rutube",10 канал
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=LNrBiZqTlgnbikNxV-9ulQ&e=2068506963&scheme=https
+#EXTINF:-1 group-title="Rutube",Спас
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=Dh7uOoGZBCslhSfLLkxvAg&e=2068506963&scheme=https
+#EXTINF:-1 group-title="Rutube",Кино и Жизнь
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ML11UHe_6_ttGKfJv42jNg&e=2068506963&scheme=https
+#EXTINF:-1 group-title="Rutube",Резонанс ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=1LOv8p19I6Xqi6tKnGA7aw&e=2068506964&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Солнце.png" group-title="Rutube",Солнце
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=4oilZ0DLjJD_Dbc3ruPV3w&e=2068506965&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Жар Птица.png" group-title="Rutube",Жар Птица
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=7ThCakzq-BJlrMuNMSau4g&e=2068506965&scheme=https
+#EXTINF:-1 group-title="Rutube",Activa TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=R8hNC3yL0_zjp_QjCPOyTg&e=2068506965&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU.TV.png" group-title="Rutube",RU.TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=z8iI3jVMag-witLRIH5zVg&e=2068506966&scheme=https
+#EXTINF:-1 group-title="Rutube",MIXM
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=627TjzA4VCXicgJ7x1Zncg&e=2068506966&scheme=https
+#EXTINF:-1 group-title="Rutube",МузТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
+#EXTINF:-1 group-title="Rutube",ММТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=wSeIJIsBx3y-tmApWp-xqw&e=2068506967&scheme=https
+#EXTINF:-1 group-title="Rutube",Илли ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=UKvGFq1X35957nFifIojhg&e=2068506967&scheme=https
+#EXTINF:-1 group-title="Rutube",Восток ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=xwRJRZoQeAKYsMQ9OdPeIA&e=2068506967&scheme=https
+#EXTINF:-1 group-title="Rutube",Deluxe Dance
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=5iVKech65NpuxgeUevT0Hg&e=2068506968&scheme=https
+#EXTINF:-1 group-title="Rutube",Record Супердискотека 90х
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=8xQFTehgXrRnDYtfPmjN4g&e=2068506968&scheme=https
+#EXTINF:-1 group-title="Rutube",Record Russian Hits
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=4gNG-CS7_ubrGsS3GMGpIg&e=2068506969&scheme=https
+#EXTINF:-1 group-title="Rutube",Record Megamix
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=A6TrQmZyPv2n8X6TnDy-AA&e=2068506969&scheme=https
+#EXTINF:-1 group-title="Rutube",Record Trance
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=vpFz3v_5Gi71_uh6ZlXhOQ&e=2068506969&scheme=https
+#EXTINF:-1 group-title="Rutube",Sports Grid
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=i6xs6ojHVGDRxHja9a2FQA&e=2068506970&scheme=https
+#EXTINF:-1 group-title="Rutube",NBA TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=U6zVHNgxAWO07Ezo-cgV4Q&e=2068506971&scheme=https
+#EXTINF:-1 group-title="Rutube",TVS Classic Sports
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=HkbXjbnEsHETTkb5Srd_2Q&e=2068506971&scheme=https
+#EXTINF:-1 group-title="Rutube",beIN SPORTS XTRA Español
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=Sdy8lXNmJ0j9gYwwP_PG6A&e=2068506971&scheme=https
+#EXTINF:-1 group-title="Rutube",Sky Sports Tennis
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=pDqQ6Dvzh-8Ec9Ml2MCyXg&e=2068506972&scheme=https
+#EXTINF:-1 group-title="Rutube",Sky Sports F1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=QW9xj19ZlfgPVb0ObGhHxg&e=2068506972&scheme=https
+#EXTINF:-1 group-title="Rutube",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=f6Lrx1cPYx2SfJ9mbaHnbw&e=2068506972&scheme=https
+#EXTINF:-1 group-title="Rutube",Волейбол
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=KT4dmbULKlvq1iV4IUVHSg&e=2068506973&scheme=https
+#EXTINF:-1 group-title="Rutube",Rutube TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=BB38oulqX9y3TSbPkK6_Kw&e=2068506930&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" group-title="Rutube",Первый канал HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Rutube",НТВ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=E5FB6LF5iVXO3ikWKlv1NA&e=2068506931&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4 HD.png" group-title="Rutube",ТНТ4 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=gSfZr_b1wBE3aUNAD0mlXA&e=2068506932&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3 HD.png" group-title="Rutube",ТВ3 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="Rutube",2x2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
+#EXTINF:-1 group-title="Rutube",Суббота
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=K5qwXPiww7h9EIwodnvrAQ&e=2068506935&scheme=https
+#EXTINF:-1 group-title="Rutube",Ю
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ypW_sLxBx1nKFR48-gn7hQ&e=2068506935&scheme=https
+#EXTINF:-1 group-title="Rutube",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Kmb5U8Od5In6YypbGhahIg&e=2068506936&scheme=https
+#EXTINF:-1 group-title="Rutube",Загородный International
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=bfA9fwhxngtkDUUGRQDgyQ&e=2068506936&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тайна.png" group-title="Rutube",Тайна
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=IjZLkcpj2TbbBby8FXaA-A&e=2068506937&scheme=https
+#EXTINF:-1 group-title="Rutube",Киножелезо
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=cVavn32017xNTlfy6hl-pw&e=2068506937&scheme=https
+#EXTINF:-1 group-title="Rutube",Кинолаффка
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=xZI2TE-tbt1tUQAOd5Skkw&e=2068506937&scheme=https
+#EXTINF:-1 group-title="Rutube",HHQ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=1axCFUwM5UmTNQNRotjmDg&e=2068506938&scheme=https
+#EXTINF:-1 group-title="Rutube",Буряад ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=rrG_mWN-kLhThUU4lhDUZA&e=2068506938&scheme=https
+#EXTINF:-1 group-title="Rutube",GLN24-Геленджик
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=W0p7J9Gc8WMfTTJS16wx_g&e=2068506938&scheme=https
+#EXTINF:-1 group-title="Rutube",ОТС HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=20-tvVnScAMAY71ynfbDfA&e=2068506939&scheme=https
+#EXTINF:-1 group-title="Rutube",Сангат
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=VfcvAXG9j613HOCQ7F-ncQ&e=2068506939&scheme=https
+#EXTINF:-1 group-title="Rutube",25 Регион
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c3a00280a36a173641f422a7bf832c4f/index.m3u8?s=P4aU-sdpKnrYRRW-UTFjpQ&e=2068506939&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сургут 86 FHD.png" group-title="Rutube",Сургут 86 FHD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=fY8J6hEwCMguqGa8PY_DEQ&e=2068506940&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сургут 1 FHD.png" group-title="Rutube",Сургут 1 FHD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=7RKmnionIRieWaR0sTk0Hw&e=2068506940&scheme=https
+#EXTINF:-1 group-title="Rutube",Таврия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c5a272dc23ad505667bc2b54f98a3241/index.m3u8?s=ACKUOrygMpQo8a-UWzSq5w&e=2068506943&scheme=https
+#EXTINF:-1 group-title="Rutube",Ника ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=Rjhrb3UwE43id3gB2OCdbg&e=2068506944&scheme=https
+#EXTINF:-1 group-title="Rutube",Среда
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=8zIg7oO2dj7zRXDm3VJ-mw&e=2068506945&scheme=https
+#EXTINF:-1 group-title="Rutube",ЛТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=Jcgx09XL6lQQZEFeh8KC0A&e=2068506946&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Башкортостан 24.png" group-title="Rutube",Башкортостан 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=us60bfvgc-Nmso1sVWL-aA&e=2068506947&scheme=https
+#EXTINF:-1 group-title="Rutube",Кубань 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=cWjDGKXikJfhg8j6Xq0BQw&e=2068506947&scheme=https
+#EXTINF:-1 group-title="Rutube",Саратов 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=_T4kalU2Bai06k_3NU7CFg&e=2068506948&scheme=https
+#EXTINF:-1 group-title="Rutube",Ариг Ус 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=40vjOfUXB_ju-bCmow3wMQ&e=2068506949&scheme=https
+#EXTINF:-1 group-title="Rutube",ДОН 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=wTe0fhjopVDZq4bf5u9s-A&e=2068506949&scheme=https
+#EXTINF:-1 group-title="Rutube",АРИС 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=NNiigeRnzGSb0ta10gINyg&e=2068506949&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БСТ.png" group-title="Rutube",БСТ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=2Pvy7bDJjOLbg1maRW3bGA&e=2068506950&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Катунь 24.png" group-title="Rutube",Катунь 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=iihU7-vaEftHxWuvkHMiZw&e=2068506950&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="Rutube",Мир 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=bS9Nn0sHn6JVte__04JtWQ&e=2068506951&scheme=https
+#EXTINF:-1 group-title="Rutube",Рифей-ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=klrPR4CAx9Iai25kN8Z09g&e=2068506952&scheme=https
+#EXTINF:-1 group-title="Rutube",КРИК-ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=kDVSNjotPs2u7e4WcRmGLw&e=2068506952&scheme=https
+#EXTINF:-1 group-title="Rutube",Импульс Севера
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=jbLsfoxTMYSjZxZ0EuWl6Q&e=2068506953&scheme=https
+#EXTINF:-1 group-title="Rutube",САМОТЛОР
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=pgjKxYsM7EBiEASUTTn0fA&e=2068506954&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТС Иркутск.png" group-title="Rutube",НТС Иркутск
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=Ni93prUgokkhWUHaZvdZNg&e=2068506954&scheme=https
+#EXTINF:-1 group-title="Rutube",Евразия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=3akJEkanz-U5fvTWzsTqUw&e=2068506955&scheme=https
+#EXTINF:-1 group-title="Rutube",МТВ Волгоград
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=FJLErVuiYbfw6IUn_-ryUg&e=2068506956&scheme=https
+#EXTINF:-1 group-title="Rutube",Енисей +4
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=CbDfspRbVf113fWS6Gjvzg&e=2068506956&scheme=https
+#EXTINF:-1 group-title="Rutube",Царьград
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
+#EXTINF:-1 group-title="Rutube",Омск ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=9dIdlqaQYWPAE65FWDpBfA&e=2068506958&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Белогорья.png" group-title="Rutube",Мир Белогорья
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/31bd9a668e5dfe5feddb988c96c0998c/index.m3u8?s=2VnTlXtCWNGjuqe54eKaPg&e=2068506959&scheme=https
+#EXTINF:-1 group-title="Rutube",Ямал-Медиа
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=K7T_EANSMWzi8ynQcGKLcg&e=2068506959&scheme=https
+#EXTINF:-1 group-title="Rutube",БТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=6UA2ut2U6ACdw4uPwkCkaw&e=2068506959&scheme=https
+#EXTINF:-1 group-title="Rutube",UNIVER TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=DXEIqMq6He7Hw3HdpYdDTQ&e=2068506960&scheme=https
+#EXTINF:-1 group-title="Rutube",Магас
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=usYcG68wztfPI9913hX07A&e=2068506960&scheme=https
+#EXTINF:-1 group-title="Rutube",Первый Ярославский
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=VQcjSQESIj1rD68Kj54MNA&e=2068506960&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый Тульский.png" group-title="Rutube",Первый Тульский
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=pcjielrH6M1ao9LlihheYA&e=2068506961&scheme=https
+#EXTINF:-1 group-title="Rutube",Истоки Орёл
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=lJsRclRwjyB_etOvBR5PZw&e=2068506961&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360.png" group-title="Rutube",360
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=quHaLjLTQiB3zaH-AlSQ5A&e=2068506962&scheme=https
+#EXTINF:-1 group-title="Rutube",ТВ-ИН Магнитогорск
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/9feaea12e270b1e23f7c7e65da5652af/index.m3u8?s=KxqRF6w_RNJLrB8pw0m6RA&e=2068506962&scheme=https
+#EXTINF:-1 group-title="Rutube",10 канал
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=LNrBiZqTlgnbikNxV-9ulQ&e=2068506963&scheme=https
+#EXTINF:-1 group-title="Rutube",Спас
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=Dh7uOoGZBCslhSfLLkxvAg&e=2068506963&scheme=https
+#EXTINF:-1 group-title="Rutube",Кино и Жизнь
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ML11UHe_6_ttGKfJv42jNg&e=2068506963&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Смайлик ТВ.png" group-title="Rutube",Смайлик ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=QkuMcRYb3s5QP8UeGEtUGw&e=2068506964&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Солнце.png" group-title="Rutube",Солнце
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=4oilZ0DLjJD_Dbc3ruPV3w&e=2068506965&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Жар Птица.png" group-title="Rutube",Жар Птица
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=7ThCakzq-BJlrMuNMSau4g&e=2068506965&scheme=https
+#EXTINF:-1 group-title="Rutube",Activa TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=R8hNC3yL0_zjp_QjCPOyTg&e=2068506965&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RU.TV.png" group-title="Rutube",RU.TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=z8iI3jVMag-witLRIH5zVg&e=2068506966&scheme=https
+#EXTINF:-1 group-title="Rutube",МузТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
+#EXTINF:-1 group-title="Rutube",ММТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=wSeIJIsBx3y-tmApWp-xqw&e=2068506967&scheme=https
+#EXTINF:-1 group-title="Rutube",Илли ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=UKvGFq1X35957nFifIojhg&e=2068506967&scheme=https
+#EXTINF:-1 group-title="Rutube",Восток ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=xwRJRZoQeAKYsMQ9OdPeIA&e=2068506967&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МузСоюз.png" group-title="Rutube",МузСоюз
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=MR-idByAIA2YJdMGxAabNg&e=2068506968&scheme=https
+#EXTINF:-1 group-title="Rutube",Deluxe Dance
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=5iVKech65NpuxgeUevT0Hg&e=2068506968&scheme=https
+#EXTINF:-1 group-title="Rutube",Record Супердискотека 90х
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=8xQFTehgXrRnDYtfPmjN4g&e=2068506968&scheme=https
+#EXTINF:-1 group-title="Rutube",Record Megamix
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=A6TrQmZyPv2n8X6TnDy-AA&e=2068506969&scheme=https
+#EXTINF:-1 group-title="Rutube",Record Trance
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=vpFz3v_5Gi71_uh6ZlXhOQ&e=2068506969&scheme=https
+#EXTINF:-1 group-title="Rutube",VIVA Russia HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=huO81WRGvesnVMCCPmNTRQ&e=2068506970&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч ТВ HD.png" group-title="Rutube",Матч ТВ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=dmUCxHrffLTIK5v-vKhGXQ&e=2068506970&scheme=https
+#EXTINF:-1 group-title="Rutube",NBA TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=U6zVHNgxAWO07Ezo-cgV4Q&e=2068506971&scheme=https
+#EXTINF:-1 group-title="Rutube",TVS Classic Sports
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=HkbXjbnEsHETTkb5Srd_2Q&e=2068506971&scheme=https
+#EXTINF:-1 group-title="Rutube",beIN SPORTS XTRA Español
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=Sdy8lXNmJ0j9gYwwP_PG6A&e=2068506971&scheme=https
+#EXTINF:-1 group-title="Rutube",Sky Sports Tennis
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=pDqQ6Dvzh-8Ec9Ml2MCyXg&e=2068506972&scheme=https
+#EXTINF:-1 group-title="Rutube",Sky Sports F1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=QW9xj19ZlfgPVb0ObGhHxg&e=2068506972&scheme=https
+#EXTINF:-1 group-title="Rutube",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=f6Lrx1cPYx2SfJ9mbaHnbw&e=2068506972&scheme=https
+#EXTINF:-1 group-title="Rutube",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
+#EXTINF:-1 group-title="Rutube",Волейбол
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=KT4dmbULKlvq1iV4IUVHSg&e=2068506973&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="NEXO",NEXO
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/nexo2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/IPTV.png" group-title="NEXO",IPTV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/IPTV.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NexoIPTV.png" group-title="NEXO",NexoIPTV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/NexoIPTV.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Candy (Jazz-Funk Cover)_v2.png" group-title="NEXO",Candy (Jazz-Funk Cover)_v2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Candy (Jazz-Funk Cover)_v2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Parisienne days(Fender guitar)_v1.png" group-title="NEXO",Parisienne days(Fender guitar)_v1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Parisienne days(Fender guitar)_v1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Horizon (Fender Guitar Cov.)_v1.png" group-title="NEXO",Horizon (Fender Guitar Cov.)_v1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Horizon (Fender Guitar Cov.)_v1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Sorrow (Guitar Solo Cover)_v1.png" group-title="NEXO",Sorrow (Guitar Solo Cover)_v1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Sorrow (Guitar Solo Cover)_v1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Salut (Joe Dassin Cover)_v2.png" group-title="NEXO",Salut (Joe Dassin Cover)_v2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Salut (Joe Dassin Cover)_v2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Never Leav (Country Cover)_v2.png" group-title="NEXO",Never Leav (Country Cover)_v2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Never Leav (Country Cover)_v2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/I swear (Country Cover)_v2.png" group-title="NEXO",I swear (Country Cover)_v2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/I swear (Country Cover)_v2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Пастух (Pan Flute Cover)_v2.png" group-title="NEXO",Пастух (Pan Flute Cover)_v2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Пастух (Pan Flute Cover)_v2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Astral Sorrow (Enigmatic Cov.)_v1.png" group-title="NEXO",Astral Sorrow (Enigmatic Cov.)_v1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Astral Sorrow (Enigmatic Cov.)_v1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Astral Sorrow (Enigmatic Cov.)_v2.png" group-title="NEXO",Astral Sorrow (Enigmatic Cov.)_v2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Astral Sorrow (Enigmatic Cov.)_v2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Baby (Country Cover)_v1.png" group-title="NEXO",Baby (Country Cover)_v1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Baby (Country Cover)_v1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Baby (Country Cover)_v2.png" group-title="NEXO",Baby (Country Cover)_v2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Baby (Country Cover)_v2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Candy (Jazz-Funk Cover)_v1.png" group-title="NEXO",Candy (Jazz-Funk Cover)_v1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Candy (Jazz-Funk Cover)_v1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Candy (Smooth Jazz Cover)_v1.png" group-title="NEXO",Candy (Smooth Jazz Cover)_v1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Candy (Smooth Jazz Cover)_v1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Candy (Smooth Jazz Cover)_v2.png" group-title="NEXO",Candy (Smooth Jazz Cover)_v2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Candy (Smooth Jazz Cover)_v2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/ES/Fading Light_2.png" group-title="NEXO",Fading Light_2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rafail1982.uz/ES/Fading Light_2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +2.png" group-title="Российские",Россия 1 +2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Россия 1 +3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +4.png" group-title="Российские",Россия 1 +4
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Россия 1 +5
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +6.png" group-title="Российские",Россия 1 +6
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Россия 1 +7
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +8.png" group-title="Российские",Россия 1 +8
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Россия 1 +9
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +2.png" group-title="Российские",НТВ +2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +4.png" group-title="Российские",НТВ +4
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +7.png" group-title="Российские",НТВ +7
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/ntv7/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Российские",НТВ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="Российские",НТВ Право
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Сериал.png" group-title="Российские",НТВ Сериал
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Стиль.png" group-title="Российские",НТВ Стиль
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="Российские",НТВ Хит
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24 HD.png" group-title="Российские",Мир 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_MIR24HD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир HD.png" group-title="Российские",Мир HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/T2/CH_MIRHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +2.png" group-title="Российские",Мир +2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/T2/CH_MIR_2.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +4.png" group-title="Российские",Мир +4
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/T2/CH_MIR_4.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +7.png" group-title="Российские",Мир +7
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/T2/CH_MIR_7.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="Российские",Звезда
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="Российские",Звезда
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда +4.png" group-title="Российские",Звезда +4
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/T2/CH_ZVEZDA_4.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",НЕИЗВЕСТНАЯ РОССИЯ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",НЕИЗВЕСТНАЯ РОССИЯ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="Российские",РБК
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_RBK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК HD.png" group-title="Российские",РБК HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_RBKHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Красная Линия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_REDLINE.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РЖД ТВ.png" group-title="Российские",РЖД ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_RZHDTV.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",РЖД ТВ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_RZHDTVHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Россия К HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Россия К HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="Российские",Россия 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",МУЗ ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/T2/CH_MUZTV_4.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24 HD.png" group-title="Российские",Мир 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +2.png" group-title="Российские",Мир +2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +4.png" group-title="Российские",Мир +4
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +7.png" group-title="Российские",Мир +7
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",555
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://trk555.tv:8888/live
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Aris 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Arktika 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Bashkortostan 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Channel-16
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",LDPR TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Nizhniy Novgorod 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",RTR-Planeta CIS
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",RTR-Planeta Europe
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Samara 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Sibir 24 KYA
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Sochi Live
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Ural 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/russia.png" group-title="Российские",Zapad 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские",Россия 1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vod.splay.uz/live_splay/original/Rossiya1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир.png" group-title="Российские",Мир
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vod.splay.uz/live_splay/original/Mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="Российские",Мир 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vod.splay.uz/live_splay/original/Mir24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="Российские",НТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vod.splay.uz/live_splay/original/NTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3.png" group-title="Российские",ТВ3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vod.splay.uz/live_splay/original/TV3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",Первый канал FHD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские",Россия 1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="Российские",НТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Российские",НТВ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВЦ.png" group-title="Российские",ТВЦ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Российские",Пятый канал Int.
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://178.134.1.158:8081/5channel/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир.png" group-title="Российские",Мир
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="Российские",Звезда
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда Плюс.png" group-title="Российские",Звезда Плюс
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Российские",Россия Культура
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Российские",Неизвестная Россия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Российские",360°
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Российские",Вместе РФ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Российские",Большая Азия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Красная линия.png" group-title="Российские",Красная линия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",TV BRICS
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Российские",Конгресс ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 group-title="Российские",РТР-Планета Азия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские",Россия 1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 HD.png" group-title="Российские",Россия 1 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF:-1 group-title="Российские",Россия К HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Российские",Россия К HD +2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Российские",PLANETA RTR
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:-1 group-title="Российские",PLANETA RTR
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
+#EXTINF:-1 group-title="Российские",РОССИЯ РТР
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="Российские",Россия 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24 +2.png" group-title="Российские",Россия 24 +2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
+#EXTINF:-1 group-title="Российские",Россия 24 +6
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/T2/CH_RUSSIA24_6.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда HD.png" group-title="Российские",Звезда HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/T2/CH_ZVEZDAHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские",Россия 1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://s8.rafail1982.uz/1020/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="Российские",НТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://s8.rafail1982.uz/1023/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Стиль.png" group-title="Российские",НТВ Стиль
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Право.png" group-title="Российские",НТВ Право
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Сериал.png" group-title="Российские",НТВ Сериал
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="Российские",НТВ Хит
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Российские",НТВ Америка
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:-1 tvg-id="" tvg-name="Рен-ТВ" tvg-logo="" group-title="Развлекательные",Рен-ТВ (ᵀᵛˢʰᵃᵐ)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://46.224.1.162:80/Shamilbro/ShamsTV/663.m3u8
+#EXTINF:-1 group-title="Развлекательные",Рен ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ +4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ +7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятница!.png" group-title="Развлекательные",Пятница!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Love.png" group-title="Развлекательные",СТС Love
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 Int
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://178.134.1.158:8081/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ю ТВ.png" group-title="Развлекательные",Ю ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТРК
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КВН ТВ.png" group-title="Развлекательные",КВН ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/546/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/E TV.png" group-title="Развлекательные",E TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Телекафе.png" group-title="Развлекательные",Телекафе
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.11.139.43:8555/telekafe/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Твоё ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",RTVI
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://178.134.1.158:8081/rtvi/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TLC HD.png" group-title="Развлекательные",TLC HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://5.188.159.128:8070/TLC/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Калейдоскоп ТВ.png" group-title="Развлекательные",Калейдоскоп ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",TV1 KG HD (Кыргызстан)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Продвижение.png" group-title="Развлекательные",Продвижение
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Китай ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Теледом HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 group-title="Развлекательные",8 канал
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF:-1 group-title="Развлекательные",8 Канал (Европа)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_8CHANNEL_EUROPE.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/E TV HD.png" group-title="Развлекательные",E TV HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_ETVHD.m3u8
+#EXTINF:-1 group-title="Развлекательные",Просвещение
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_PROSVESHENIE.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Надежда.png" group-title="Развлекательные",Надежда
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_NADEZHDAHD720.m3u8
+#EXTINF:-1 group-title="Развлекательные",7tv
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_7TV.m3u8
+#EXTINF:-1 group-title="Развлекательные",LIFE TV [RUS]
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_LIFETV_RUS.m3u8
+#EXTINF:-1 group-title="Развлекательные",LIFE TV [RUS/EST]
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_LIFETV_RUSEST.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Твое ТВ HD.png" group-title="Развлекательные",Твое ТВ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_TVOETVHD.m3u8
+#EXTINF:-1 group-title="Развлекательные",360°
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_360TV.m3u8
+#EXTINF:-1 group-title="Развлекательные",360° HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_360TVHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3 HD.png" group-title="Спортивные",Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1.png" group-title="Спортивные",Setanta Sports 1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://95.85.109.219:7000/play/a067
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="Спортивные",Setanta Sports 1 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="Спортивные",Setanta Sports 2 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD*
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://95.85.109.219:7000/play/a068
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч!.png" group-title="Спортивные",Матч!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные",Q Sport Kyrgyzstan HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://95.85.109.219:7000/play/a05u
+#EXTINF:-1 group-title="Спортивные",Canal+ Sport 2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Fox Sports️
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://7pal.short.gy/fox505au
+#EXTINF:-1 group-title="Спортивные",Fox Sports️
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://7pal.short.gy/fox506au
+#EXTINF:-1 group-title="Спортивные",Fox Sports️
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://7pal.short.gy/fox507au
+#EXTINF:-1 group-title="Спортивные",Polsat Sport 2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.236.229.62:9981/play/a07q
+#EXTINF:-1 group-title="Спортивные",Polsat Sport 3 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.236.229.62:9981/play/a06m
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="Спортивные",KHL Prime
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 1 HD.png" group-title="Спортивные",Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 2 HD.png" group-title="Спортивные",Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Extreme Sports.png" group-title="Спортивные",Extreme Sports
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.11.139.43:8555/extsport/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Арена.png" group-title="Спортивные",Матч! Арена
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 5 HD.png" group-title="Спортивные",Беларусь 5 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",Беларусь 5 Интернет
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Хоккей ТВ HD.png" group-title="Спортивные",Хоккей ТВ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные",Астрахань Спорт
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные",СТАРТ ТРИУМФ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_START_TRIUMF.m3u8
+#EXTINF:-1 group-title="Спортивные",СТАРТ ТРИУМФ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_START_TRIUMFHD720.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://95.47.156.60:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://stream-tv.ew21.ru/003/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://5.188.221.43:8080/play/match
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.46.16.239:8000/Match_TV
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tv.tuva.ru:8080/machtv/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv"   tvg-name="Матч ТВ",МАТЧ!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://catchup.videoline.ru/match/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv"   tvg-name="Матч ТВ",МАТЧ!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.131.141.195:8000/play/1030/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv"   tvg-name="Матч ТВ",МАТЧ!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.145.32.13:20440/match/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ! SD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/17_86669241/952a6c5933a6d2731013eb113aba2351/4809226378.m3u8&token=dmVsZXM2OTg6dGVsZXZpem9yZGV4cA==&hash=VGtMRUp0SThPTlhQejZOTDZOak9YMDdHUWo0K1Ixd0tQRnBKb1NtQUJpQT06OhUTkCJO0ykGN8zXHBB63vk%3D
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv"   tvg-name="Матч HD",МАТЧ! HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ! HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15:80/Match_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ! HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-tv" ,МАТЧ! HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-arena" ,МАТЧ! АРЕНА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-arena" ,МАТЧ! АРЕНА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.46.16.239:8000/Match_Arena
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-arena" ,МАТЧ! АРЕНА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://193.25.8.59:8000/sport1
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-arena" ,МАТЧ! АРЕНА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://194.143.148.28:8080/MatchArena/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-arena" ,МАТЧ! АРЕНА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-arena" ,МАТЧ! АРЕНА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-arena" ,МАТЧ! АРЕНА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://194.143.148.28:80/MatchArena/video.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-arena"   tvg-name="Матч! Арена",МАТЧ! АРЕНА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-arena" ,МАТЧ! АРЕНА SD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-arena" ,МАТЧ! АРЕНА SD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15:80/Match_Arena_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-boets" ,МАТЧ! БОЕЦ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-boets" ,МАТЧ! БОЕЦ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15:80/Match_Boec/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-boets" ,МАТЧ! БОЕЦ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Match_Boec/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-boets"   tvg-name="Матч! Боец",МАТЧ! БОЕЦ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.145.32.13:20440/match_boets/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-igra" ,МАТЧ! ИГРА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-igra"   tvg-name="Матч! Игра",МАТЧ! ИГРА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.145.32.13:20440/match_igra/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-igra" ,МАТЧ! ИГРА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.46.16.239:8000/Match_Igra
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-igra" ,МАТЧ! ИГРА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15:80/Match_Igra/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-premier"   tvg-name="Матч Премьер",МАТЧ! ПРЕМЬЕР SD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-nash-sport"   tvg-name="Матч! Страна",МАТЧ! СТРАНА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-nash-sport" ,МАТЧ! СТРАНА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.46.16.239:8000/Match_Nash_Sport
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-nash-sport" ,МАТЧ! СТРАНА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15:80/Match_Nash_Sport/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football1" ,МАТЧ! ФУТБОЛ 1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football1" ,МАТЧ! ФУТБОЛ 1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football1" ,МАТЧ! ФУТБОЛ 1 SD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football1" ,МАТЧ! ФУТБОЛ 1 SD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football2"   tvg-name="Матч! Футбол 2",МАТЧ! ФУТБОЛ 2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football2" ,МАТЧ! ФУТБОЛ 2 SD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football2" ,МАТЧ! ФУТБОЛ 2 SD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football3" ,МАТЧ! ФУТБОЛ 3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://193.25.8.59:8000/fut3
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football3"   tvg-name="Матч! Футбол 3",МАТЧ! ФУТБОЛ 3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football3" ,МАТЧ! ФУТБОЛ 3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.57.68.33:80/110/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football3" ,МАТЧ! ФУТБОЛ 3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football3"   $ExtFilter="SUZTVFREE",МАТЧ! ФУТБОЛ 3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.57.68.33/110/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football3"   $ExtFilter="SUZTVFREE",МАТЧ! ФУТБОЛ 3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.57.68.33:8091/110/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football3" ,МАТЧ! ФУТБОЛ 3 SD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
+#EXTINF:-1 group-title="Спортивные"  tvg-id="match-football3" ,МАТЧ! ФУТБОЛ 3 SD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="Спортивные",Setanta VIDEO
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://setantasports.com/wp-content/uploads/2025/08/VIDEO-FOR-SITE_1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="Спортивные",Setanta Sports 1 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="Спортивные",Setanta Sports 2 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="Спортивные",Setanta Sports 1 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://s8.rafail1982.uz/1263/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="Спортивные",Setanta Sports 2 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://s8.rafail1982.uz/1264/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные",Восток 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Запад 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:-1 group-title="Региональные",Арктика 24 Архангельск
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Архыз 24.png" group-title="Региональные",Архыз 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Астрахань 24.png" group-title="Региональные",Астрахань 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Башкортостан 24.png" group-title="Региональные",Башкортостан 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://s1.gtrkrb.ru/540/b24-540.m3u8
+#EXTINF:-1 group-title="Региональные",Краснодар
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Кубань 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Санкт-Петербург.png" group-title="Региональные",Санкт-Петербург
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Лен ТВ 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 group-title="Региональные",Дон 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
+#EXTINF:-1 group-title="Региональные",НТРК Ингушетия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Москва 24.png" group-title="Региональные",Москва 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1 group-title="Региональные",Сочи 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Своё ТВ Ставрополь
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Кавказ 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 group-title="Региональные",Ветта 24 Пермь
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Волга.png" group-title="Региональные",Волга
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Волгоград 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_102_1f3a2163/chunklist.m3u8
+#EXTINF:-1 group-title="Региональные",Вектор 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Городской Телеканал-Ярославль.png" group-title="Региональные",Городской Телеканал-Ярославль
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Губерния Самара.png" group-title="Региональные",Губерния Самара
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Енисей регион
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Липецкое время.png" group-title="Региональные",Липецкое время
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Нижний Новгород 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",НТС Севастополь
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КРЫМ 24.png" group-title="Региональные",КРЫМ 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://iptv.crimea.net:8787
+#EXTINF:-1 group-title="Региональные",Первый крымский
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 group-title="Региональные",12 Канал Омск
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Региональные",ТВК Красноярск
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",МТВ Волгоград
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Прима Красноярск
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+#EXTINF:-1 group-title="Региональные",С1 Сургут
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 group-title="Региональные",Телеканал 86 Сургут
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1 group-title="Региональные",Север Нарьян-Мар
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Салям УФА
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Курай Уфа
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Белгород 24.png" group-title="Региональные",Белгород 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 group-title="Региональные",Урал 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/track_101_4e9e7e3b/chunklist.m3u8
+#EXTINF:-1 group-title="Региональные",Тюменское время
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ТНВ Татарстан
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+#EXTINF:-1 group-title="Региональные",ТНВ Планета
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные",ТКР Рязань
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОТВ Екатеринбург.png" group-title="Региональные",ОТВ Екатеринбург
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vd.obltv.ru/watch/air_hd.m3u8
+#EXTINF:-1 group-title="Региональные",Народное телевидение Мордовии
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Мордовия 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Евразия Орск
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 group-title="Региональные",РГВК Дагестан
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Брянская губерния HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
+#EXTINF:-1 group-title="Региональные",НВК Саха HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Новый Век HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Саров 24 HD.png" group-title="Региональные",Саров 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Белогорья HD.png" group-title="Региональные",Мир Белогорья HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_MIR_BLGRYAHD_BELG.m3u8
+#EXTINF:-1 group-title="Региональные",Волгоград 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
+#EXTINF:-1 group-title="Региональные",МТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
+#EXTINF:-1 group-title="Региональные",Волжский Плюс HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_VOLPLUSHD_VLSKIY.m3u8
+#EXTINF:-1 group-title="Региональные",ОТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_OTV_EKT.m3u8
+#EXTINF:-1 group-title="Региональные",ОТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_OTVHD720_EKT.m3u8
+#EXTINF:-1 group-title="Региональные",БАЙКАЛ Универ ТВ HD (Иркутск)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
+#EXTINF:-1 group-title="Региональные",ШАЯН HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_SHAYANHD_KZN.m3u8
+#EXTINF:-1 group-title="Региональные",UNIVER
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_UNIVER_KZN.m3u8
+#EXTINF:-1 group-title="Региональные",UNIVER HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_UNIVERHD_KZN.m3u8
+#EXTINF:-1 group-title="Региональные",Запад 24 (Калининград)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
+#EXTINF:-1 group-title="Региональные",Запад 24 HD (Калининград)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
+#EXTINF:-1 group-title="Региональные",Краснодар (Краснодар)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_KRASNODAR_KRDAR.m3u8
+#EXTINF:-1 group-title="Региональные",ТВК 24 (Красноярск)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_TVK24_KRSK.m3u8
+#EXTINF:-1 group-title="Региональные",TVАист (Ликино-Дулево)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_TVAIST_LD.m3u8
+#EXTINF:-1 group-title="Региональные",Липецкое время
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_LVREMYAHD720_LIPETSK.m3u8
+#EXTINF:-1 group-title="Региональные",Крик ТВ (Магадан)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_KRIKTV_DV_MGDN.m3u8
+#EXTINF:-1 group-title="Региональные",РГВК Дагестан (Махачкала)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_DAGESTAN_MAHACHK.m3u8
+#EXTINF:-1 group-title="Региональные",Москва 24 (Москва)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
+#EXTINF:-1 group-title="Региональные",Мособр ТВ (Москва)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_MOSOBRTVHD720_MOS.m3u8
+#EXTINF:-1 group-title="Региональные",Север (Нарьян-Мар)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_SEVER_NAO.m3u8
+#EXTINF:-1 group-title="Региональные",Волга HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_VOLGAHD_NN.m3u8
+#EXTINF:-1 group-title="Региональные",Нижний Новгород 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_NN24_NN.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Нижний Новгород 24 HD.png" group-title="Региональные",Нижний Новгород 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
+#EXTINF:-1 group-title="Региональные",Эхо ТВ 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_ECHOTV24_NURLSK.m3u8
+#EXTINF:-1 group-title="Региональные",Сибирь 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_SIBIR24_NSK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сибирь 24 HD.png" group-title="Региональные",Сибирь 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_SIBIR24HD_NSK.m3u8
+#EXTINF:-1 group-title="Региональные",12 Канал
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_12CHANNEL_OMSK.m3u8
+#EXTINF:-1 group-title="Региональные",Наш дом
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_NASHDOM_PENZA.m3u8
+#EXTINF:-1 group-title="Региональные",ДОН 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_DON24_RD.m3u8
+#EXTINF:-1 group-title="Региональные",Лен ТВ 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657.m3u8
+#EXTINF:-1 group-title="Региональные",Санкт-Петербург HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Теледом.png" group-title="Региональные",Теледом
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_TELEDOMHD720_SPB.m3u8
+#EXTINF:-1 group-title="Региональные",Народное телевидение Мордовии
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_NTMHD720_SRNK.m3u8
+#EXTINF:-1 group-title="Региональные",Миллет ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_MILLETHD720_SMRPL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КРЫМ 24.png" group-title="Региональные",КРЫМ 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_KRYM24_SMRPL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КРЫМ 24.png" group-title="Региональные",КРЫМ 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_KRYM24HD720_SMRPL.m3u8
+#EXTINF:-1 group-title="Региональные",Легендарный 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
+#EXTINF:-1 group-title="Региональные",Симферополь 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_SIMFEROPOL24HD_SMRPL.m3u8
+#EXTINF:-1 group-title="Региональные",SOCHI LIVE
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
+#EXTINF:-1 group-title="Региональные",С1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_C1_SUR.m3u8
+#EXTINF:-1 group-title="Региональные",С86
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_C86_SUR.m3u8
+#EXTINF:-1 group-title="Региональные",СТВ/Продвижение
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_STV_SRVOY.m3u8
+#EXTINF:-1 group-title="Региональные",Новый век
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_NOVIY_VEKHD720_TAMB.m3u8
+#EXTINF:-1 group-title="Региональные",Югра HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_UGRAHD_TUM.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Башкортостан 24.png" group-title="Региональные",Башкортостан 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_BASHKORTOSTAN24_UFA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Башкортостан 24 HD.png" group-title="Региональные",Башкортостан 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_BASHKORTOSTAN24HD_UFA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="Региональные",РБК
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_RBK_UFA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БСТ.png" group-title="Региональные",БСТ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_BST_UFA.m3u8
+#EXTINF:-1 group-title="Региональные",ЮУрГУ ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_YURGUTVHD720_CHEL.m3u8
+#EXTINF:-1 group-title="Региональные",Урал 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_URAL24_CHEL.m3u8
+#EXTINF:-1 group-title="Региональные",Урал 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/region/CH_URAL24HD_CHEL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Архыз 24.png" group-title="Региональные",Архыз 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_ARKHIZ24_CHERKS.m3u8
+#EXTINF:-1 group-title="Региональные",Якутия 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8
+#EXTINF:-1 group-title="Региональные",МИТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://193.33.233.109:9000/tv
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Грозный.png" group-title="Региональные",Грозный
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 group-title="Разное",Moldova TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://89.38.8.130:39435
+#EXTINF:-1 group-title="Разное",LEOMAX 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_LEOMAX24HD.m3u8
+#EXTINF:-1 group-title="Разное",Витрина ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_VITRINATV.m3u8
+#EXTINF:-1 group-title="Разное",[Радио] РАДИО ХИТ (Орск)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_RADIOXITHD720_ORSK.m3u8
+#EXTINF:-1 group-title="Разное",[Радио] MCM (Иркутск)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_MCMHD720_IRK.m3u8
+#EXTINF:-1 group-title="Разное",[Радио] Радио России HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://player.smotrim.ru/iframe/stream/live_id/39ebf09f-bf74-4040-83e6-94b770ba77c4.m3u8
+#EXTINF:-1 group-title="Разное",Fashion TV (SK)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_FASHIONTV_SK.m3u8
+#EXTINF:-1 group-title="Новости",Первый информационный
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Крик ТВ.png" group-title="Новости",Крик ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Euronews
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+#EXTINF:-1 group-title="Новости",KZ 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир 24.png" group-title="Новости",Мир 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="Новости",Россия 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1 group-title="Новости",ТАСС
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="Новости",РБК
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="Новости",Russia Today
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
+#EXTINF:-1 group-title="Новости",CNN
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 group-title="Новости",Fox News Channel
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 group-title="Новости",Deutsche Welle
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Соловьев Live.png" group-title="Новости",Соловьев Live
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 group-title="Новости",ОСН
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Про бизнес
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.107.219.20:9000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Новости",CGTN ENGLISH
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_CGTN_ENGLISHHD720.m3u8
+#EXTINF:-1 group-title="Новости",CGTN ESPANOL HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_CGTN_ESPANOLHD.m3u8
+#EXTINF:-1 group-title="Новости",CGTN FRANCAIS HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_CGTN_FRANCAISHD.m3u8
+#EXTINF:-1 group-title="Новости",CGTN ARABIC HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_CGTN_ARABICHD.m3u8
+#EXTINF:-1 group-title="Новости",CGTN РУССКИЙ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_CGTN_RUSSKIYHD.m3u8
+#EXTINF:-1 group-title="Новости",CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_CGTN_DOCUMENTARYHD720.m3u8
+#EXTINF:-1 group-title="Новости",МИР 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_MIR24.m3u8
+#EXTINF:-1 group-title="Новости",Соловьев Live HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+#EXTINF:-1 group-title="Новости",Большая Азия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_BAZIYA.m3u8
+#EXTINF:-1 group-title="Новости",Большая Азия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_BAZIYAHD720.m3u8
+#EXTINF:-1 group-title="Новости",Байкал Телеком info
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_BAYKALTEL_INFOHD720.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png" group-title="Беларусь",Беларусь 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/БелРос.png" group-title="Беларусь",БелРос
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png" group-title="Беларусь",Беларусь 1 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png" group-title="Беларусь",Беларусь 2 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png" group-title="Беларусь",Беларусь 3 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Беларусь",ОНТ Беларусь
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
+#EXTINF:-1 group-title="Беларусь",СТВ Беларусь
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь",НТВ-Беларусь
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://194.158.222.36:6107
+#EXTINF:-1 group-title="Беларусь",Беларусь 1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 1 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1HD.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 2 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 3 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3HD.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 5
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 5 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS5HD.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 24 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24HD.m3u8
+#EXTINF:-1 group-title="Беларусь",Первый информационный
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
+#EXTINF:-1 group-title="Беларусь",Первый информационный HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+#EXTINF:-1 group-title="Беларусь",СТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_CTBHD720.m3u8
+#EXTINF:-1 group-title="Беларусь",ОНТ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_OHTHD.m3u8
+#EXTINF:-1 group-title="Беларусь",БелРос
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/blrus/CH_BELROS.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Капитан Фантастика HD.png" group-title="Детские",Капитан Фантастика HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://158.160.149.81:8080/1578/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Солнце.png" group-title="Детские",Солнце
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Смайлик ТВ.png" group-title="Детские",Смайлик ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://158.160.149.81:8080/2462/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рыжий.png" group-title="Детские",Рыжий
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Rizhiy/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Лёва HD.png" group-title="Детские",Лёва HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://158.160.149.81:8080/8062/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cartoonito.png" group-title="Детские",Cartoonito
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.159.74.22/Channel_120/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nick Jr.png" group-title="Детские",Nick Jr
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Детские",Детское кино Int
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детские",Пингвин
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радость моя.png" group-title="Детские",Радость моя
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Радость моя.png" group-title="Детские",Радость моя
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_RADOSTMOYA.m3u8
+#EXTINF:-1 group-title="Детские",ПИНГВИН ЛОЛО
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_PINGVIN_LOLO.m3u8
+#EXTINF:-1 group-title="Детские",Мультимания
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_MULTIMANIYA.m3u8
+#EXTINF:-1 group-title="Детские",Мамонтёнок
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_MAMONTENOK.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viasat Kino World.png" group-title="Фильмовые",Viasat Kino World
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Патриот
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema HD.png" group-title="Фильмовые",Cinema HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинеко.png" group-title="Фильмовые",Кинеко
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://194.143.148.28:8080/KINEKO/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский детектив.png" group-title="Фильмовые",Русский детектив
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский роман.png" group-title="Фильмовые",Русский роман
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Fox Life
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://188.237.47.212:6008
+#EXTINF:-1 group-title="Фильмовые",Kino24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FAN.png" group-title="Фильмовые",FAN
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Fan/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Индийское Кино.png" group-title="Фильмовые",Индийское Кино
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju TV1000 HD.png" group-title="Фильмовые",Viju TV1000 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=O8nKVweZczmY3Vh_E6zPjQ&e=1760722189&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Фильмовые",Viju TV1000 русское кино
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://95.85.109.219:7000/play/a08x
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дорама HD.png" group-title="Фильмовые",Дорама HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://95.85.109.219:7000/play/a05v
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ HD.png" group-title="Фильмовые",Кино ТВ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносерия HD.png" group-title="Фильмовые",Киносерия HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://95.85.109.219:7000/play/a087
+#EXTINF:-1 group-title="Фильмовые",Pro100
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир Сериала.png" group-title="Фильмовые",Мир Сериала
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино 1 International.png" group-title="Фильмовые",Кино 1 International
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="Фильмовые",НТВ ПРАВО
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 group-title="Фильмовые",НТВ СЕРИАЛ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF:-1 group-title="Фильмовые",НТВ СТИЛЬ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 group-title="Фильмовые",НТВ ХИТ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 group-title="Фильмовые",Кино и сериалы (СМОТРИМ)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 group-title="Фильмовые",Кино и сериалы HD (СМОТРИМ)
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:-1 group-title="Фильмовые",KINO 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png" group-title="Фильмовые",КИНО ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_KINOTV.m3u8
+#EXTINF:-1 group-title="Фильмовые",CINEMA
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_CINEMA.m3u8
+
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=x8VvMxD6-3zMFu_-Eih_IQ&e=1760722259&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1,Первый музыкальный HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Кинозалы", Смотрим Кино и сериалы
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Alpha Cinema
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="Кинозалы",Alpha Funny
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 group-title="Кинозалы",Alpha Moretime
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY ФАНТАСТИКА HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY ИНТЕРНЫ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY МУЛЬТСКАЗКИ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY ПАМЯТЬ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY УЖАСТИК HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY ВЕДЬМАК HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Доктор HD.png" group-title="Познавательные",Доктор HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Doktor/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикий HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Загородная Жизнь.png" group-title="Познавательные",Загородная Жизнь
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Открытый мир.png" group-title="Познавательные",Открытый мир
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Поехали!.png" group-title="Познавательные",Поехали!
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
+#EXTINF:-1 group-title="Познавательные",Светлое ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/World Fashion Channel.png" group-title="Познавательные",World Fashion Channel
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Познавательные",РЖД HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="Познавательные",История
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://185.46.16.239:8000/Istoriya
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Неизвестная Россия HD.png" group-title="Познавательные",Неизвестная Россия HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8 
+#EXTINF:-1 group-title="Познавательные",365 Дней ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://45.11.139.43:8555/365dney/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Animal Planet HD.png" group-title="Познавательные",Animal Planet HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Discovery Channel HD.png" group-title="Познавательные",Discovery Channel HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nat Geo Wild HD.png" group-title="Познавательные",Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://188.237.47.212:6005 
+#EXTINF:-1 group-title="Познавательные",Нано HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
+#EXTINF:-1 group-title="Познавательные",ПРОДВИЖЕНИЕ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF:-1 group-title="Познавательные",СОЮЗ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_SOYUZHD.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Europa Plus TV HD.png" group-title="Музыкальные",Europa Plus TV HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge Русский хит
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://stream01.vnet.am/Channel_115/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные",Страна FM
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Муз ТВ.png" group-title="Музыкальные",Муз ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1 group-title="Музыкальные",Муз Союз
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_MUZSOYUZ.m3u8
+#EXTINF:-1 group-title="Музыкальные",RUTV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_RUTV.m3u8
+#EXTINF:-1 group-title="Музыкальные",RUTV HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_RUTVHD.m3u8
+#EXTINF:-1 group-title="Музыкальные",V2BEAT
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_V2BEATHD720.m3u8
+#EXTINF:-1 group-title="Музыкальные",Kronehit
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_KRONEHIT.m3u8
+#EXTINF:-1 group-title="Музыкальные",Kronehit HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_KRONEHITHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Шансон ТВ.png" group-title="Музыкальные",Шансон ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://a0925677.xsph.ru/hls/CH_SHANSONTV.m3u8
+#EXTINF:-1 group-title="Радио",Ретро FM
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+#EXTINF:-1 group-title="Радио",Радио Маяк
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1 group-title="Радио",Наше радио
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://nashe1.hostingradio.ru/nashespb128.mp3
+#EXTINF:-1 group-title="Радио",ROCK-FM
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://nashe1.hostingradio.ru/rock-64.mp3
+#EXTINF:-1 group-title="Радио",Хит FM
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1 group-title="Радио",Русское радио
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 group-title="Радио",Maximum
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1 group-title="Радио",Вести FM
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1 group-title="Радио",Радио Европа Плюс
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 group-title="Радио",Ultra
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://nashe1.hostingradio.ru/ultra-64.mp3
+#EXTINF:-1 group-title="Радио",Авторадио
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://ic7.101.ru:8000/v3_1
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +2.png" group-title="RUSSIA1",Россия 1 +2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="RUSSIA1",Россия 1 +3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +4.png" group-title="RUSSIA1",Россия 1 +4
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +5.png" group-title="RUSSIA1",Россия 1 +5
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +6.png" group-title="RUSSIA1",Россия 1 +6
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +7.png" group-title="RUSSIA1",Россия 1 +7
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +8.png" group-title="RUSSIA1",Россия 1 +8
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +9.png" group-title="RUSSIA1",Россия 1 +9
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Первый канал
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/1kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",НТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/ntv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",ТНТ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/tnt/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Рен ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/rentv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Россия 1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/rossiya1/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Россия К
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/rossiyak/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Viasat History
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/HISTORY/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Пятый канал
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/5kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",2x2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/2x2/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",VIP Comedy HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/ComedyHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Кинопоказ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/kinopokaz/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Пятница
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/pyatnitsa/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",СТС
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/sts/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",TMTV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/tmtv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",ТНВ-Татарстан
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/tnv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",ТВ3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/tv3/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Карусель
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/karusel/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Матч Премьер
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://tat.rafail1982.uz:8080/matchpremier/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",РЕН ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",РОССИЯ К
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТНТ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/19/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",НТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ПЯТЫЙ КАНАЛ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/5/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)"tvg-id="art-tv" ,ART-ТВ   
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Архыз 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Домашний
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/14/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Звезда
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/17/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",МИР
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/18/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ММТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ПРНК
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Пятница
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Резонанс ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",СТС
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/13/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Своё ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/21/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",Спас
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/12/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТБВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТВЦ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",ТВ3
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",КАРУСЕЛЬ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/8/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",МузТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/20/index.m3u8
+#EXTINF:-1 group-title="IP Petrosyan (VPN)",МАТЧ ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://petro.rafail1982.uz:8000/play/3/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="Cloudflare_Inc",История
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Istoriya/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дикий.png" group-title="Cloudflare_Inc",Дикий
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Dikiy/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Наука 2.0
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/NAUKA/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG TV.png" group-title="Cloudflare_Inc",RTG TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia 1.png" group-title="Cloudflare_Inc",Amedia 1
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Kinorating HD.png" group-title="Cloudflare_Inc",BCU Kinorating HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/BCU Stars HD.png" group-title="Cloudflare_Inc",BCU Stars HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Clarity4K Gamefilm
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Gags Network.png" group-title="Cloudflare_Inc",Gags Network
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НСТ.png" group-title="Cloudflare_Inc",НСТ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/HCTV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопоказ HD.png" group-title="Cloudflare_Inc",Кинопоказ HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Ключ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Kluch/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кухня ТВ.png" group-title="Cloudflare_Inc",Кухня ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Maydan
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Maydan/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мосфильм. Золотая коллекция.png" group-title="Cloudflare_Inc",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",MyTV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Наше HD.png" group-title="Cloudflare_Inc",Наше HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ностальгия.png" group-title="Cloudflare_Inc",Ностальгия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Про любовь
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="Cloudflare_Inc",РБК
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/RBK/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Союз.png" group-title="Cloudflare_Inc",Союз
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Souz/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Совершенно секретно.png" group-title="Cloudflare_Inc",Совершенно секретно
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Спас
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Spas/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Театр.png" group-title="Cloudflare_Inc",Театр
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Teatr/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",СТС Kids
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc", Da Vinci
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Бобёр.png" group-title="Cloudflare_Inc",Бобёр
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Bober/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Bolt
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Bolt/mono.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",BRIDGE TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Футбол.png" group-title="Cloudflare_Inc",Футбол
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/Football/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч ТВ.png" group-title="Cloudflare_Inc",Матч ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="Internet42 LLC",Россия 24
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Rossiya24/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ.png" group-title="Internet42 LLC",ТНТ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/THT/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ.png" group-title="Internet42 LLC",НТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/NTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ4.png" group-title="Internet42 LLC",ТНТ4
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/TNT4/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Galaxy.png" group-title="Internet42 LLC",Galaxy
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Galaxy/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="Internet42 LLC",История
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Istoria/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RTG TV.png" group-title="Internet42 LLC",RTG TV
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/RTG-TV/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",Viasat Explore
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/viju-Explore/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",Viasat History
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/viju-History/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",Viasat Nature
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/viju-Nature/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",.Black
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Black/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",.SCI-FI
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/SCI-FI/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TLC HD.png" group-title="Internet42 LLC",TLC HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/TLC-HD/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",TV1000
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/viju-TV1000/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="Internet42 LLC",Bollywood HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="Internet42 LLC",Cinema
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино.png" group-title="Internet42 LLC",Дом Кино
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Dom_kino/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еврокино.png" group-title="Internet42 LLC",Еврокино
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НСТ.png" group-title="Internet42 LLC",НСТ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Иллюзион+.png" group-title="Internet42 LLC",Иллюзион+
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" group-title="Internet42 LLC",Кинокомедия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс.png" group-title="Internet42 LLC",Киномикс
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",Родное кино
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",Кинопоказ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киносерия.png" group-title="Internet42 LLC",Киносерия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Комедия.png" group-title="Internet42 LLC",Комедия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",Любимое кино
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",Мир сериала
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Время.png" group-title="Internet42 LLC",Время
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Vremya/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",Спас
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Spas/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Союз.png" group-title="Internet42 LLC",Союз
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Souz/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Драйв.png" group-title="Internet42 LLC",Драйв
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Draiv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/360 HD.png" group-title="Internet42 LLC",360 HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/360_HD/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",365 дней
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/365_dney_tv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир.png" group-title="Internet42 LLC",Мир
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Mir/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОТР.png" group-title="Internet42 LLC",ОТР
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/OTR/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сарафан.png" group-title="Internet42 LLC",Сарафан
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Sarafan/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Здоровое ТВ.png" group-title="Internet42 LLC",Здоровое ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Zdorovoe-TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="Internet42 LLC",Звезда
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Zvezda/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/2x2.png" group-title="Internet42 LLC",2x2
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС.png" group-title="Internet42 LLC",СТС
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/CTC/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",Че
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ностальгия.png" group-title="Internet42 LLC",Ностальгия
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РБК.png" group-title="Internet42 LLC",РБК
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/RBK/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ретро.png" group-title="Internet42 LLC",Ретро
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Театр.png" group-title="Internet42 LLC",Театр
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Teatr/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Телекафе.png" group-title="Internet42 LLC",Телекафе
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Telekafe/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/1HD.png" group-title="Internet42 LLC",1HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cartoon Network.png" group-title="Internet42 LLC",Cartoon Network
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="Internet42 LLC",Boomerang
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Boomerang/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Бобёр.png" group-title="Internet42 LLC",Бобёр
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Bober/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ani.png" group-title="Internet42 LLC",Ani
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Ani/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Gulli Girl.png" group-title="Internet42 LLC",Gulli Girl
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Gulli-Girl/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/JimJam.png" group-title="Internet42 LLC",JimJam
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/JimJam/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Карусель.png" group-title="Internet42 LLC",Карусель
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Karusel/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мама.png" group-title="Internet42 LLC",Мама
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Mama/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч ТВ.png" group-title="Internet42 LLC",Матч ТВ
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://net42.rafail1982.uz/Match/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL.png" group-title="Internet42 LLC",KHL
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+http://176.118.197.101/KHL/index.m3u8
